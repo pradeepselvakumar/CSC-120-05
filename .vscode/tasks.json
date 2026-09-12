@@ -90,7 +90,7 @@
           "env": {
             "CPP_SOURCE_DIR": "${fileDirname}",
             "CPP_BUILD_DIR": "${workspaceFolder}/.vscode/build",
-            "CPP_COMPILER": "g++-15"
+            "CPP_COMPILER": "clang++"
           }
         }
       },
