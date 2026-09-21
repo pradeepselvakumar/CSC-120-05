@@ -1,0 +1,8 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-09-21T18:54:48.502Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"926ff9da-7937-4254-af56-5ae4385622b7","sourceWindowId":"e8e5049f-baaa-484f-93b5-70b85409dcc3","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"396e9116c4127b6d14e2c4b2f21b9b09680360cf","seq":1,"ms":-4031,"op":"source.context"}
+{"text":"{\r\n    \"files.exclude\": {\r\n        \"**/vcr-course.json\": true,\r\n        \"**/.gitkeep\": true,\r\n        \"**/vcr-sessions\": true\r\n    }\r\n}\r\n","version":1,"path":".vscode/settings.json","snapshot":true,"doc":1,"seq":2,"ms":-4031,"op":"snap"}
+{"doc":1,"seq":3,"ms":9116,"op":"close"}
+{"text":"{\r\n    \"files.exclude\": {\r\n        \"**/vcr-course.json\": true,\r\n        \"**/.gitkeep\": true,\r\n        \"**/vcr-sessions\": true\r\n    }\r\n}\r\n","version":1,"snapshot":true,"doc":1,"seq":4,"ms":55667,"op":"snap"}
+{"version":2,"changes":[{"offset":127,"length":5,"text":"    },\r\n    \"C_Cpp.errorSquiggles\": \"enabled\""}],"doc":1,"seq":5,"ms":55672,"op":"edit"}
+{"doc":1,"seq":6,"ms":55688,"op":"save"}
+{"doc":1,"seq":7,"ms":55691,"op":"close"}
