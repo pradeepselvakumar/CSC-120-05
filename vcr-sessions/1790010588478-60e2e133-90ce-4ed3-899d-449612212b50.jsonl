@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-09-21T17:09:48.479Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"ed2dbd51-7784-49fb-88ef-5be84fadd43c","sourceWindowId":"6010b3a8-7666-43ef-a60f-aab1a0ee2ced","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"396e9116c4127b6d14e2c4b2f21b9b09680360cf","seq":1,"ms":-3099,"op":"source.context"}
+{"text":"{\r\n    \"files.exclude\": {\r\n        \"**/vcr-course.json\": true,\r\n        \"**/.gitkeep\": true,\r\n        \"**/vcr-sessions\": true\r\n    }\r\n}\r\n","version":1,"path":".vscode/settings.json","snapshot":true,"doc":1,"seq":2,"ms":-3099,"op":"snap"}
