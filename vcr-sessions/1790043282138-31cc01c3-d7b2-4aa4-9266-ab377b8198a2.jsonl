@@ -36,3 +36,13 @@
 {"executionId":"32c1b0c9-9dd3-45e5-8cfa-d68a079177a3","terminalId":"f5d633a0-4901-4930-9144-78a4d8694cf3","commandLine":"cls","confidence":2,"exitCode":0,"doc":2,"seq":35,"ms":214837,"op":"terminal.end"}
 {"source":"workspace","path":"exercises/module_02","doc":3,"seq":36,"ms":320586,"op":"fs.create"}
 {"source":"watcher","doc":3,"seq":37,"ms":320677,"op":"fs.create"}
+{"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":38,"ms":36912298,"op":"source.context"}
+{"source":"watcher","path":"vcr-recording.json","doc":4,"seq":39,"ms":36912298,"op":"fs.create"}
+{"version":3,"changes":[{"offset":94,"length":33,"text":"        \"**/vcr-recording.json\": true\r\n"}],"doc":1,"seq":40,"ms":36912337,"op":"edit"}
+{"source":"watcher","path":"assignments/assignment_01","doc":5,"seq":41,"ms":36912430,"op":"fs.create"}
+{"source":"watcher","path":"assignments/assignment_01/.gitkeep","doc":6,"seq":42,"ms":36912430,"op":"fs.create"}
+{"source":"watcher","path":"exercises/module_02/.gitkeep","doc":7,"seq":43,"ms":36912430,"op":"fs.create"}
+{"source":"watcher","doc":4,"seq":44,"ms":36912430,"op":"fs.create"}
+{"source":"watcher","path":"exercises/.gitkeep","doc":8,"seq":45,"ms":36912430,"op":"fs.delete"}
+{"source":"watcher","path":"assignments/.gitkeep","doc":9,"seq":46,"ms":36912430,"op":"fs.delete"}
+{"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main() {\r\n    cout << \"Hello, World!\" << endl;\r\n    return 0;\r\n}","version":1,"path":"exercises/module_01/welcome.cpp","snapshot":true,"doc":10,"seq":47,"ms":36953978,"op":"snap"}
