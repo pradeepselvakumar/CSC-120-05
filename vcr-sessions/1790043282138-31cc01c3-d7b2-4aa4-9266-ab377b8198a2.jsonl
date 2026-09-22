@@ -70,3 +70,4 @@
 {"executionId":"50c12525-1996-4fec-9add-8ca6f7d96089","terminalId":"f5d633a0-4901-4930-9144-78a4d8694cf3","commandLine":"cd ..","confidence":2,"doc":2,"seq":69,"ms":58561398,"op":"terminal.start"}
 {"executionId":"50c12525-1996-4fec-9add-8ca6f7d96089","terminalId":"f5d633a0-4901-4930-9144-78a4d8694cf3","data":"\u001b]633;C\u0007","doc":2,"seq":70,"ms":58561447,"op":"terminal.output"}
 {"executionId":"50c12525-1996-4fec-9add-8ca6f7d96089","terminalId":"f5d633a0-4901-4930-9144-78a4d8694cf3","commandLine":"cd ..","confidence":2,"exitCode":0,"doc":2,"seq":71,"ms":58561447,"op":"terminal.end"}
+{"seq":72,"ms":58825886,"op":"end"}
