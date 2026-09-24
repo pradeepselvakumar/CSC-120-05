@@ -4,3 +4,12 @@
 {"text":"","version":1,"snapshot":true,"doc":1,"seq":3,"ms":10,"op":"snap"}
 {"source":"watcher","doc":1,"seq":4,"ms":104,"op":"fs.create"}
 {"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main() {\r\n    cout << \"Hello, World!\" << endl;\r\n    return 0;\r\n}"}],"doc":1,"seq":5,"ms":135536,"op":"edit"}
+{"version":3,"changes":[{"offset":57,"length":1,"text":"\r\n"}],"doc":1,"seq":6,"ms":329335,"op":"edit"}
+{"version":4,"changes":[{"offset":116,"length":0,"text":"\r\n"}],"doc":1,"seq":7,"ms":329341,"op":"edit"}
+{"doc":1,"seq":8,"ms":329393,"op":"save"}
+{"version":5,"changes":[{"offset":116,"length":0,"text":"\r\n"}],"doc":1,"seq":9,"ms":332550,"op":"edit"}
+{"version":6,"changes":[{"offset":118,"length":0,"text":"\r\n"}],"doc":1,"seq":10,"ms":332756,"op":"edit"}
+{"version":7,"changes":[{"offset":120,"length":0,"text":"\r\n"}],"doc":1,"seq":11,"ms":332882,"op":"edit"}
+{"version":8,"reason":1,"changes":[{"offset":120,"length":2,"text":""}],"doc":1,"seq":12,"ms":336429,"op":"edit"}
+{"version":9,"reason":1,"changes":[{"offset":118,"length":2,"text":""}],"doc":1,"seq":13,"ms":336791,"op":"edit"}
+{"version":10,"reason":1,"changes":[{"offset":116,"length":2,"text":""}],"doc":1,"seq":14,"ms":337165,"op":"edit"}
