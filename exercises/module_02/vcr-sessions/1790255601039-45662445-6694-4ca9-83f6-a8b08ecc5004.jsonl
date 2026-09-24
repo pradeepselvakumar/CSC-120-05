@@ -230,3 +230,8 @@
 {"executionId":"e5e7ee11-1586-4718-8711-ce7fb2ea0811","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"\u001b]633;C\u0007","doc":2,"seq":229,"ms":1544962,"op":"terminal.output"}
 {"executionId":"e5e7ee11-1586-4718-8711-ce7fb2ea0811","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"The sum of num1 and 100 is 175\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":230,"ms":1544997,"op":"terminal.output"}
 {"executionId":"e5e7ee11-1586-4718-8711-ce7fb2ea0811","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"exitCode":0,"doc":2,"seq":231,"ms":1544998,"op":"terminal.end"}
+{"version":203,"changes":[{"offset":190,"length":0,"text":"\""}],"doc":1,"seq":232,"ms":1598127,"op":"edit"}
+{"version":204,"changes":[{"offset":191,"length":0,"text":" "}],"doc":1,"seq":233,"ms":1600973,"op":"edit"}
+{"version":205,"changes":[{"offset":192,"length":0,"text":"<"}],"doc":1,"seq":234,"ms":1602726,"op":"edit"}
+{"version":206,"changes":[{"offset":193,"length":0,"text":"<"}],"doc":1,"seq":235,"ms":1602907,"op":"edit"}
+{"version":207,"changes":[{"offset":194,"length":0,"text":" "}],"doc":1,"seq":236,"ms":1603438,"op":"edit"}
