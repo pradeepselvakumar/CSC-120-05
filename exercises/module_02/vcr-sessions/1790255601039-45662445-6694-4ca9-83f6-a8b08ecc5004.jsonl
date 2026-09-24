@@ -452,3 +452,13 @@
 {"executionId":"67a080d6-8a04-4eb1-82aa-7e64426d7fb7","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"\u001b]633;C\u0007","doc":2,"seq":451,"ms":2944176,"op":"terminal.output"}
 {"executionId":"67a080d6-8a04-4eb1-82aa-7e64426d7fb7","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"East Coast Sales is 4.988e+06\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":452,"ms":2944242,"op":"terminal.output"}
 {"executionId":"67a080d6-8a04-4eb1-82aa-7e64426d7fb7","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"exitCode":0,"doc":2,"seq":453,"ms":2944243,"op":"terminal.end"}
+{"version":181,"changes":[{"offset":130,"length":6,"text":"f"}],"doc":3,"seq":454,"ms":3051951,"op":"edit"}
+{"version":182,"changes":[{"offset":131,"length":0,"text":"l"}],"doc":3,"seq":455,"ms":3052123,"op":"edit"}
+{"version":183,"changes":[{"offset":132,"length":0,"text":"o"}],"doc":3,"seq":456,"ms":3052297,"op":"edit"}
+{"version":184,"changes":[{"offset":133,"length":0,"text":"a"}],"doc":3,"seq":457,"ms":3052906,"op":"edit"}
+{"version":185,"changes":[{"offset":134,"length":0,"text":"t"}],"doc":3,"seq":458,"ms":3053186,"op":"edit"}
+{"doc":3,"seq":459,"ms":3056178,"op":"save"}
+{"executionId":"7270b109-8929-4ba5-9055-4520672a41fa","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"doc":2,"seq":460,"ms":3058331,"op":"terminal.start"}
+{"executionId":"7270b109-8929-4ba5-9055-4520672a41fa","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"\u001b]633;C\u0007","doc":2,"seq":461,"ms":3058390,"op":"terminal.output"}
+{"executionId":"7270b109-8929-4ba5-9055-4520672a41fa","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"East Coast Sales is 4.988e+06\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":462,"ms":3058413,"op":"terminal.output"}
+{"executionId":"7270b109-8929-4ba5-9055-4520672a41fa","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"exitCode":0,"doc":2,"seq":463,"ms":3058414,"op":"terminal.end"}
