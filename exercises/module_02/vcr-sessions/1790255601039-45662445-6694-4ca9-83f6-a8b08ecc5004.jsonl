@@ -210,3 +210,10 @@
 {"executionId":"e6829c18-b042-4fa5-8881-954cfc455f54","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"\u001b]633;C\u0007","doc":2,"seq":209,"ms":1396225,"op":"terminal.output"}
 {"executionId":"e6829c18-b042-4fa5-8881-954cfc455f54","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"The sum of 50 and 100 is 150\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":210,"ms":1396295,"op":"terminal.output"}
 {"executionId":"e6829c18-b042-4fa5-8881-954cfc455f54","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"exitCode":0,"doc":2,"seq":211,"ms":1396295,"op":"terminal.end"}
+{"version":193,"changes":[{"offset":77,"length":2,"text":"7"}],"doc":1,"seq":212,"ms":1443950,"op":"edit"}
+{"version":194,"changes":[{"offset":78,"length":0,"text":"5"}],"doc":1,"seq":213,"ms":1444307,"op":"edit"}
+{"doc":1,"seq":214,"ms":1450207,"op":"save"}
+{"executionId":"47bf8b4c-a1ab-4951-bffd-e042895909ce","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"doc":2,"seq":215,"ms":1460173,"op":"terminal.start"}
+{"executionId":"47bf8b4c-a1ab-4951-bffd-e042895909ce","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"\u001b]633;C\u0007","doc":2,"seq":216,"ms":1460224,"op":"terminal.output"}
+{"executionId":"47bf8b4c-a1ab-4951-bffd-e042895909ce","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"The sum of 50 and 100 is 175\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":217,"ms":1460248,"op":"terminal.output"}
+{"executionId":"47bf8b4c-a1ab-4951-bffd-e042895909ce","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"exitCode":0,"doc":2,"seq":218,"ms":1460249,"op":"terminal.end"}
