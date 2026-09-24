@@ -119,3 +119,24 @@
 {"version":114,"changes":[{"offset":144,"length":0,"text":"<"}],"doc":1,"seq":118,"ms":1124090,"op":"edit"}
 {"version":115,"changes":[{"offset":145,"length":0,"text":"<"}],"doc":1,"seq":119,"ms":1124205,"op":"edit"}
 {"version":116,"changes":[{"offset":146,"length":0,"text":" "}],"doc":1,"seq":120,"ms":1124336,"op":"edit"}
+{"version":117,"changes":[{"offset":147,"length":0,"text":"t"}],"doc":1,"seq":121,"ms":1128650,"op":"edit"}
+{"version":118,"changes":[{"offset":148,"length":0,"text":"o"}],"doc":1,"seq":122,"ms":1128796,"op":"edit"}
+{"version":119,"changes":[{"offset":149,"length":0,"text":"t"}],"doc":1,"seq":123,"ms":1129028,"op":"edit"}
+{"version":120,"changes":[{"offset":150,"length":0,"text":"l"}],"doc":1,"seq":124,"ms":1129358,"op":"edit"}
+{"version":121,"changes":[{"offset":150,"length":1,"text":""}],"doc":1,"seq":125,"ms":1129716,"op":"edit"}
+{"version":122,"changes":[{"offset":150,"length":0,"text":"a"}],"doc":1,"seq":126,"ms":1129792,"op":"edit"}
+{"version":123,"changes":[{"offset":151,"length":0,"text":"l"}],"doc":1,"seq":127,"ms":1129996,"op":"edit"}
+{"version":124,"changes":[{"offset":152,"length":0,"text":" "}],"doc":1,"seq":128,"ms":1130225,"op":"edit"}
+{"version":125,"changes":[{"offset":153,"length":0,"text":"<"}],"doc":1,"seq":129,"ms":1132573,"op":"edit"}
+{"version":126,"changes":[{"offset":154,"length":0,"text":"<"}],"doc":1,"seq":130,"ms":1132890,"op":"edit"}
+{"version":127,"changes":[{"offset":155,"length":0,"text":" "}],"doc":1,"seq":131,"ms":1133263,"op":"edit"}
+{"version":128,"changes":[{"offset":156,"length":0,"text":"e"}],"doc":1,"seq":132,"ms":1150791,"op":"edit"}
+{"version":129,"changes":[{"offset":157,"length":0,"text":"n"}],"doc":1,"seq":133,"ms":1151003,"op":"edit"}
+{"version":130,"changes":[{"offset":158,"length":0,"text":"d"}],"doc":1,"seq":134,"ms":1151504,"op":"edit"}
+{"version":131,"changes":[{"offset":159,"length":0,"text":"l"}],"doc":1,"seq":135,"ms":1151690,"op":"edit"}
+{"version":132,"changes":[{"offset":160,"length":0,"text":";"}],"doc":1,"seq":136,"ms":1152973,"op":"edit"}
+{"doc":1,"seq":137,"ms":1175862,"op":"save"}
+{"executionId":"c2fbbad1-43e6-49f3-80f8-96d98070bc06","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"path":".","doc":2,"seq":138,"ms":1178357,"op":"terminal.start"}
+{"executionId":"c2fbbad1-43e6-49f3-80f8-96d98070bc06","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"\u001b]633;C\u0007","doc":2,"seq":139,"ms":1178410,"op":"terminal.output"}
+{"executionId":"c2fbbad1-43e6-49f3-80f8-96d98070bc06","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"150\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":140,"ms":1178441,"op":"terminal.output"}
+{"executionId":"c2fbbad1-43e6-49f3-80f8-96d98070bc06","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"exitCode":0,"doc":2,"seq":141,"ms":1178442,"op":"terminal.end"}
