@@ -202,3 +202,11 @@
 {"executionId":"14d9d73a-9118-46c1-b59c-d1f5557b1f8d","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"\u001b]633;C\u0007","doc":2,"seq":201,"ms":1351393,"op":"terminal.output"}
 {"executionId":"14d9d73a-9118-46c1-b59c-d1f5557b1f8d","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"150\r\nThe sum of 50 and 100 is 150\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":202,"ms":1351425,"op":"terminal.output"}
 {"executionId":"14d9d73a-9118-46c1-b59c-d1f5557b1f8d","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"exitCode":0,"doc":2,"seq":203,"ms":1351426,"op":"terminal.end"}
+{"version":190,"changes":[{"offset":139,"length":0,"text":"/"}],"doc":1,"seq":204,"ms":1379897,"op":"edit"}
+{"version":191,"changes":[{"offset":140,"length":0,"text":"/"}],"doc":1,"seq":205,"ms":1380059,"op":"edit"}
+{"version":192,"changes":[{"offset":141,"length":0,"text":" "}],"doc":1,"seq":206,"ms":1380428,"op":"edit"}
+{"doc":1,"seq":207,"ms":1393980,"op":"save"}
+{"executionId":"e6829c18-b042-4fa5-8881-954cfc455f54","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"doc":2,"seq":208,"ms":1396166,"op":"terminal.start"}
+{"executionId":"e6829c18-b042-4fa5-8881-954cfc455f54","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"\u001b]633;C\u0007","doc":2,"seq":209,"ms":1396225,"op":"terminal.output"}
+{"executionId":"e6829c18-b042-4fa5-8881-954cfc455f54","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"The sum of 50 and 100 is 150\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":210,"ms":1396295,"op":"terminal.output"}
+{"executionId":"e6829c18-b042-4fa5-8881-954cfc455f54","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"exitCode":0,"doc":2,"seq":211,"ms":1396295,"op":"terminal.end"}
