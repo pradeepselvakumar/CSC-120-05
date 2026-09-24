@@ -462,3 +462,21 @@
 {"executionId":"7270b109-8929-4ba5-9055-4520672a41fa","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"\u001b]633;C\u0007","doc":2,"seq":461,"ms":3058390,"op":"terminal.output"}
 {"executionId":"7270b109-8929-4ba5-9055-4520672a41fa","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"East Coast Sales is 4.988e+06\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":462,"ms":3058413,"op":"terminal.output"}
 {"executionId":"7270b109-8929-4ba5-9055-4520672a41fa","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"exitCode":0,"doc":2,"seq":463,"ms":3058414,"op":"terminal.end"}
+{"version":186,"changes":[{"offset":97,"length":5,"text":"i"}],"doc":3,"seq":464,"ms":3142789,"op":"edit"}
+{"version":187,"changes":[{"offset":98,"length":0,"text":"n"}],"doc":3,"seq":465,"ms":3143118,"op":"edit"}
+{"version":188,"changes":[{"offset":99,"length":0,"text":"t"}],"doc":3,"seq":466,"ms":3143377,"op":"edit"}
+{"version":189,"changes":[{"offset":118,"length":1,"text":""}],"doc":3,"seq":467,"ms":3145519,"op":"edit"}
+{"version":190,"changes":[{"offset":172,"length":0,"text":" "}],"doc":3,"seq":468,"ms":3149303,"op":"edit"}
+{"version":191,"changes":[{"offset":173,"length":0,"text":"/"}],"doc":3,"seq":469,"ms":3149630,"op":"edit"}
+{"version":192,"changes":[{"offset":174,"length":0,"text":" "}],"doc":3,"seq":470,"ms":3149709,"op":"edit"}
+{"version":193,"changes":[{"offset":175,"length":0,"text":"1"}],"doc":3,"seq":471,"ms":3150025,"op":"edit"}
+{"version":194,"changes":[{"offset":176,"length":0,"text":"0"}],"doc":3,"seq":472,"ms":3150259,"op":"edit"}
+{"version":195,"changes":[{"offset":177,"length":0,"text":"0"}],"doc":3,"seq":473,"ms":3150445,"op":"edit"}
+{"version":196,"changes":[{"offset":127,"length":5,"text":"i"}],"doc":3,"seq":474,"ms":3153358,"op":"edit"}
+{"version":197,"changes":[{"offset":128,"length":0,"text":"n"}],"doc":3,"seq":475,"ms":3153607,"op":"edit"}
+{"version":198,"changes":[{"offset":129,"length":0,"text":"t"}],"doc":3,"seq":476,"ms":3153700,"op":"edit"}
+{"doc":3,"seq":477,"ms":3158066,"op":"save"}
+{"executionId":"46b9d125-6f8b-47a4-8393-22d81de55638","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"doc":2,"seq":478,"ms":3160129,"op":"terminal.start"}
+{"executionId":"46b9d125-6f8b-47a4-8393-22d81de55638","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"\u001b]633;C\u0007","doc":2,"seq":479,"ms":3160186,"op":"terminal.output"}
+{"executionId":"46b9d125-6f8b-47a4-8393-22d81de55638","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"East Coast Sales is 4988000\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":480,"ms":3160343,"op":"terminal.output"}
+{"executionId":"46b9d125-6f8b-47a4-8393-22d81de55638","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"exitCode":0,"doc":2,"seq":481,"ms":3160344,"op":"terminal.end"}
