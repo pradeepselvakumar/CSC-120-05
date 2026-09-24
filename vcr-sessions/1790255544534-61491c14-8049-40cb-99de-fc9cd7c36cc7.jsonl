@@ -144,3 +144,5 @@
 {"executionId":"27552a98-46d8-45d2-9fc9-297442568a65","terminalId":"8925ed47-62a9-4633-b006-a96cab8c7aa0","commandLine":" *  ","confidence":0,"exitCode":0,"doc":3,"seq":143,"ms":3274752,"op":"terminal.end"}
 {"executionId":"be9c6ec3-bcd9-4882-be72-c5a60fc5bcd9","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":3,"seq":144,"ms":3274768,"op":"debug.start"}
 {"executionId":"be9c6ec3-bcd9-4882-be72-c5a60fc5bcd9","doc":3,"seq":145,"ms":3274898,"op":"debug.end"}
+{"source":"workspace","path":"exercises/module_03","doc":6,"seq":146,"ms":3952726,"op":"fs.create"}
+{"source":"watcher","doc":6,"seq":147,"ms":3952803,"op":"fs.create"}
