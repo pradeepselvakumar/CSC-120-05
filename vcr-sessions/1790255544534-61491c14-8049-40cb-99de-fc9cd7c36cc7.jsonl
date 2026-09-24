@@ -146,3 +146,9 @@
 {"executionId":"be9c6ec3-bcd9-4882-be72-c5a60fc5bcd9","doc":3,"seq":145,"ms":3274898,"op":"debug.end"}
 {"source":"workspace","path":"exercises/module_03","doc":6,"seq":146,"ms":3952726,"op":"fs.create"}
 {"source":"watcher","doc":6,"seq":147,"ms":3952803,"op":"fs.create"}
+{"source":"workspace","path":"exercises/module_03/area.cpp","doc":7,"seq":148,"ms":4258309,"op":"fs.create"}
+{"text":"","version":1,"snapshot":true,"doc":7,"seq":149,"ms":4258363,"op":"snap"}
+{"source":"watcher","doc":7,"seq":150,"ms":4258434,"op":"fs.create"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\r\nusing namespace std;\r\n\r\nint main() {\r\n    int years;\r\n    float principal, rate, interest;\r\n\r\n    cout << \"This program calculates simple interest.\" << endl;\r\n\r\n    cout << \"Enter principal amount, rate of interest, \"\r\n         << \"and number of years, separated by spaces: \";\r\n\r\n    cin >> principal >> rate >> years;\r\n\r\n    interest = (principal * rate * years) / 100;\r\n    cout << \"The interest is: \" << interest << endl;\r\n\r\n    return 0;\r\n}\r\n"}],"doc":7,"seq":151,"ms":4259828,"op":"edit"}
+{"version":3,"changes":[{"offset":55,"length":1,"text":"\r\n"}],"doc":7,"seq":152,"ms":4261047,"op":"edit"}
+{"doc":7,"seq":153,"ms":4261066,"op":"save"}
