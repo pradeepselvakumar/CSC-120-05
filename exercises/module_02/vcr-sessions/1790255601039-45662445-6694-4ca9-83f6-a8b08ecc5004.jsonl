@@ -243,3 +243,24 @@
 {"version":213,"changes":[{"offset":249,"length":1,"text":""}],"doc":1,"seq":242,"ms":1631515,"op":"edit"}
 {"version":214,"changes":[{"offset":203,"length":0,"text":"\""}],"doc":1,"seq":243,"ms":1635458,"op":"edit"}
 {"version":215,"changes":[{"offset":204,"length":0,"text":" "}],"doc":1,"seq":244,"ms":1635712,"op":"edit"}
+{"version":216,"changes":[{"offset":212,"length":0,"text":"\""},{"offset":209,"length":0,"text":"\""}],"doc":1,"seq":245,"ms":1818280,"op":"edit"}
+{"version":217,"changes":[{"offset":213,"length":0,"text":">"},{"offset":210,"length":0,"text":"<"}],"doc":1,"seq":246,"ms":1820582,"op":"edit"}
+{"version":218,"changes":[{"offset":214,"length":0,"text":">"},{"offset":211,"length":0,"text":"<"}],"doc":1,"seq":247,"ms":1820709,"op":"edit"}
+{"version":219,"changes":[{"offset":212,"length":3,"text":" "}],"doc":1,"seq":248,"ms":1820817,"op":"edit"}
+{"version":220,"changes":[{"offset":214,"length":1,"text":""}],"doc":1,"seq":249,"ms":1822869,"op":"edit"}
+{"version":221,"changes":[{"offset":213,"length":1,"text":""}],"doc":1,"seq":250,"ms":1823000,"op":"edit"}
+{"version":222,"changes":[{"offset":210,"length":0,"text":" "}],"doc":1,"seq":251,"ms":1825360,"op":"edit"}
+{"version":223,"changes":[{"offset":214,"length":0,"text":"n"}],"doc":1,"seq":252,"ms":1827155,"op":"edit"}
+{"version":224,"changes":[{"offset":215,"length":0,"text":"u"}],"doc":1,"seq":253,"ms":1827370,"op":"edit"}
+{"version":225,"changes":[{"offset":216,"length":0,"text":"m"}],"doc":1,"seq":254,"ms":1827604,"op":"edit"}
+{"version":226,"changes":[{"offset":217,"length":0,"text":"2"}],"doc":1,"seq":255,"ms":1827809,"op":"edit"}
+{"version":227,"changes":[{"offset":218,"length":0,"text":" "}],"doc":1,"seq":256,"ms":1828207,"op":"edit"}
+{"version":228,"changes":[{"offset":219,"length":0,"text":"<"}],"doc":1,"seq":257,"ms":1828551,"op":"edit"}
+{"version":229,"changes":[{"offset":220,"length":0,"text":"<"}],"doc":1,"seq":258,"ms":1828674,"op":"edit"}
+{"version":230,"changes":[{"offset":221,"length":0,"text":" "}],"doc":1,"seq":259,"ms":1829133,"op":"edit"}
+{"version":231,"changes":[{"offset":261,"length":1,"text":""}],"doc":1,"seq":260,"ms":1834522,"op":"edit"}
+{"doc":1,"seq":261,"ms":1834585,"op":"save"}
+{"executionId":"cdcf1152-70f9-46fc-85ab-6dace5bc6c3e","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"doc":2,"seq":262,"ms":1836777,"op":"terminal.start"}
+{"executionId":"cdcf1152-70f9-46fc-85ab-6dace5bc6c3e","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"\u001b]633;C\u0007","doc":2,"seq":263,"ms":1836829,"op":"terminal.output"}
+{"executionId":"cdcf1152-70f9-46fc-85ab-6dace5bc6c3e","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","data":"The sum of 75 and 100 is 175\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":264,"ms":1836862,"op":"terminal.output"}
+{"executionId":"cdcf1152-70f9-46fc-85ab-6dace5bc6c3e","terminalId":"ad951207-3477-488d-bd70-50ebe7240da0","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe","confidence":2,"exitCode":0,"doc":2,"seq":265,"ms":1836863,"op":"terminal.end"}
