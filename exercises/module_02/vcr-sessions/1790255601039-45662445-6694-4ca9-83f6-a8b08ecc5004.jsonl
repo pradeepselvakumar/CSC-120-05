@@ -498,3 +498,4 @@
 {"executionId":"82bd2735-3ee2-4b19-9bce-fd93b7c0f1b4","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"\u001b]633;C\u0007","doc":2,"seq":497,"ms":3461534,"op":"terminal.output"}
 {"executionId":"82bd2735-3ee2-4b19-9bce-fd93b7c0f1b4","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"origin\thttps://github.com/pradeepselvakumar/26FA-CSC-120-05.git (fetch)\r\norigin\thttps://github.com/pradeepselvakumar/26FA-CSC-120-05.git (push)\r\nupstream\thttps://github.com/profpradeep/26FA-CSC-120-05.git (fetch)\r\nupstream\thttps://github.com/profpradeep/26FA-CSC-120-05.git (push)\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":498,"ms":3461563,"op":"terminal.output"}
 {"executionId":"82bd2735-3ee2-4b19-9bce-fd93b7c0f1b4","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"git remote -v","confidence":2,"exitCode":0,"doc":2,"seq":499,"ms":3461563,"op":"terminal.end"}
+{"seq":500,"ms":18540635,"op":"end"}
