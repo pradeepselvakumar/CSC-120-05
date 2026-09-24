@@ -27,3 +27,15 @@
 {"executionId":"db423989-9036-4084-b6b3-47770d5519be","terminalId":"8925ed47-62a9-4633-b006-a96cab8c7aa0","commandLine":" *  ","confidence":0,"exitCode":0,"doc":3,"seq":26,"ms":1234704,"op":"terminal.end"}
 {"executionId":"f77bdfd8-ad6b-4dc2-b083-24d1fa789b26","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":3,"seq":27,"ms":1234725,"op":"debug.start"}
 {"executionId":"f77bdfd8-ad6b-4dc2-b083-24d1fa789b26","doc":3,"seq":28,"ms":1234946,"op":"debug.end"}
+{"executionId":"02469688-6700-4688-9d29-df1f5bf46f0f","terminalId":"8925ed47-62a9-4633-b006-a96cab8c7aa0","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_02\\sum.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sum.exe -lstdc++exp ","confidence":0,"doc":3,"seq":29,"ms":1406033,"op":"terminal.start"}
+{"executionId":"9bab4b77-e412-423a-9e07-cff073ff262c","name":"Compile active C++23 file","type":"process","doc":3,"seq":30,"ms":1406053,"op":"task.start"}
+{"executionId":"9bab4b77-e412-423a-9e07-cff073ff262c","processId":12808,"doc":3,"seq":31,"ms":1406117,"op":"task.processStart"}
+{"executionId":"02469688-6700-4688-9d29-df1f5bf46f0f","terminalId":"8925ed47-62a9-4633-b006-a96cab8c7aa0","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[1;1H","doc":3,"seq":32,"ms":1406191,"op":"terminal.output"}
+{"source":"watcher","doc":4,"seq":33,"ms":1407435,"op":"fs.delete"}
+{"executionId":"02469688-6700-4688-9d29-df1f5bf46f0f","terminalId":"8925ed47-62a9-4633-b006-a96cab8c7aa0","data":"\u001b[?1004l\u001b[?9001l","doc":3,"seq":34,"ms":1407470,"op":"terminal.output"}
+{"source":"watcher","doc":4,"seq":35,"ms":1407551,"op":"fs.create"}
+{"executionId":"9bab4b77-e412-423a-9e07-cff073ff262c","exitCode":0,"doc":3,"seq":36,"ms":1407729,"op":"task.processEnd"}
+{"executionId":"9bab4b77-e412-423a-9e07-cff073ff262c","doc":3,"seq":37,"ms":1407736,"op":"task.end"}
+{"executionId":"02469688-6700-4688-9d29-df1f5bf46f0f","terminalId":"8925ed47-62a9-4633-b006-a96cab8c7aa0","commandLine":" *  ","confidence":0,"exitCode":0,"doc":3,"seq":38,"ms":1407738,"op":"terminal.end"}
+{"executionId":"81c77312-539f-4432-a050-fd3db1249365","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":3,"seq":39,"ms":1407758,"op":"debug.start"}
+{"executionId":"81c77312-539f-4432-a050-fd3db1249365","doc":3,"seq":40,"ms":1407932,"op":"debug.end"}
