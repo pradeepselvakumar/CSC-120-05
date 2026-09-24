@@ -3,3 +3,4 @@
 {"source":"workspace","path":"sum.cpp","doc":1,"seq":2,"ms":-23,"op":"fs.create"}
 {"text":"","version":1,"snapshot":true,"doc":1,"seq":3,"ms":10,"op":"snap"}
 {"source":"watcher","doc":1,"seq":4,"ms":104,"op":"fs.create"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main() {\r\n    cout << \"Hello, World!\" << endl;\r\n    return 0;\r\n}"}],"doc":1,"seq":5,"ms":135536,"op":"edit"}
