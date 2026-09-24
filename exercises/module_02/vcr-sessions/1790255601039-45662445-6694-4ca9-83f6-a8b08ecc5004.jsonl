@@ -480,3 +480,13 @@
 {"executionId":"46b9d125-6f8b-47a4-8393-22d81de55638","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"\u001b]633;C\u0007","doc":2,"seq":479,"ms":3160186,"op":"terminal.output"}
 {"executionId":"46b9d125-6f8b-47a4-8393-22d81de55638","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"East Coast Sales is 4988000\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":480,"ms":3160343,"op":"terminal.output"}
 {"executionId":"46b9d125-6f8b-47a4-8393-22d81de55638","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"exitCode":0,"doc":2,"seq":481,"ms":3160344,"op":"terminal.end"}
+{"version":199,"changes":[{"offset":85,"length":5,"text":"1"}],"doc":3,"seq":482,"ms":3211612,"op":"edit"}
+{"version":200,"changes":[{"offset":86,"length":0,"text":"2"}],"doc":3,"seq":483,"ms":3211798,"op":"edit"}
+{"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    int totalSales = 86123;\r\n    int eastPercentage = 58;\r\n    int eastSales = totalSales * eastPercentage / 100;\r\n    cout << \"East Coast Sales is \" << eastSales << endl;\r\n    return 0;\r\n}\r\n","version":201,"snapshot":true,"doc":3,"seq":484,"ms":3211985,"op":"edit"}
+{"version":202,"changes":[{"offset":88,"length":0,"text":"4"}],"doc":3,"seq":485,"ms":3212183,"op":"edit"}
+{"version":203,"changes":[{"offset":89,"length":0,"text":"5"}],"doc":3,"seq":486,"ms":3212458,"op":"edit"}
+{"doc":3,"seq":487,"ms":3216158,"op":"save"}
+{"executionId":"7974f286-b518-48ec-8a6e-5969d46a88ef","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"doc":2,"seq":488,"ms":3218317,"op":"terminal.start"}
+{"executionId":"7974f286-b518-48ec-8a6e-5969d46a88ef","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"\u001b]633;C\u0007","doc":2,"seq":489,"ms":3218372,"op":"terminal.output"}
+{"executionId":"7974f286-b518-48ec-8a6e-5969d46a88ef","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","data":"East Coast Sales is 4995160\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":490,"ms":3218393,"op":"terminal.output"}
+{"executionId":"7974f286-b518-48ec-8a6e-5969d46a88ef","terminalId":"22e6b204-3fba-4e37-8c70-71d9e27f7f82","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/sales.exe","confidence":2,"exitCode":0,"doc":2,"seq":491,"ms":3218393,"op":"terminal.end"}
