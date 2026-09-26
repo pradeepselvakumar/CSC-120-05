@@ -18,3 +18,4 @@
 {"executionId":"51e10b66-c3e0-4b0b-bc74-517f1051e3a9","terminalId":"35c63224-fba3-40ba-bbd6-111931089e16","commandLine":"type .\\vcr-recording.json","confidence":2,"doc":3,"seq":17,"ms":11240,"op":"terminal.start"}
 {"executionId":"51e10b66-c3e0-4b0b-bc74-517f1051e3a9","terminalId":"35c63224-fba3-40ba-bbd6-111931089e16","data":"\u001b]633;C\u0007{\r\n    \"version\": 1,\r\n    \"trackedFolders\": [\r\n        \"exercises/module_01\",\r\n        \"exercises/module_02\",\r\n        \"assignments/assignment_01\"\r\n    ]\r\n}\r\n","doc":3,"seq":18,"ms":11258,"op":"terminal.output"}
 {"executionId":"51e10b66-c3e0-4b0b-bc74-517f1051e3a9","terminalId":"35c63224-fba3-40ba-bbd6-111931089e16","commandLine":"type .\\vcr-recording.json","confidence":2,"exitCode":0,"doc":3,"seq":19,"ms":11259,"op":"terminal.end"}
+{"seq":20,"ms":35737799,"op":"end"}
