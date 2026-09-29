@@ -183,3 +183,21 @@
 {"version":147,"changes":[{"offset":156,"length":0,"text":" "}],"doc":2,"seq":182,"ms":3524617,"op":"edit"}
 {"version":148,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":157,"length":0,"text":"(5 / 9)"}],"doc":2,"seq":183,"ms":3525771,"op":"edit"}
 {"doc":2,"seq":184,"ms":3527569,"op":"save"}
+{"executionId":"bed7f519-8853-41af-9392-df5627caa4a7","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_03\\temp.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe -lstdc++exp ","confidence":0,"doc":3,"seq":185,"ms":3571401,"op":"terminal.start"}
+{"executionId":"a93de3e0-1047-4fd1-9255-302750afcc12","name":"Compile active C++23 file","type":"process","doc":3,"seq":186,"ms":3571423,"op":"task.start"}
+{"executionId":"a93de3e0-1047-4fd1-9255-302750afcc12","processId":22944,"doc":3,"seq":187,"ms":3571561,"op":"task.processStart"}
+{"executionId":"bed7f519-8853-41af-9392-df5627caa4a7","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[1;1H","doc":3,"seq":188,"ms":3571650,"op":"terminal.output"}
+{"source":"watcher","doc":4,"seq":189,"ms":3572863,"op":"fs.delete"}
+{"executionId":"bed7f519-8853-41af-9392-df5627caa4a7","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[?1004l\u001b[?9001l","doc":3,"seq":190,"ms":3572894,"op":"terminal.output"}
+{"source":"watcher","doc":4,"seq":191,"ms":3572967,"op":"fs.create"}
+{"executionId":"a93de3e0-1047-4fd1-9255-302750afcc12","exitCode":0,"doc":3,"seq":192,"ms":3573156,"op":"task.processEnd"}
+{"executionId":"a93de3e0-1047-4fd1-9255-302750afcc12","doc":3,"seq":193,"ms":3573165,"op":"task.end"}
+{"executionId":"bed7f519-8853-41af-9392-df5627caa4a7","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","commandLine":" *  ","confidence":0,"exitCode":0,"doc":3,"seq":194,"ms":3573167,"op":"terminal.end"}
+{"executionId":"0c2020f4-29d4-49d5-981c-44ba344a8c90","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":3,"seq":195,"ms":3573192,"op":"debug.start"}
+{"executionId":"907151e3-70ce-4a15-98bd-5eae4712655d","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe","confidence":2,"doc":5,"seq":196,"ms":3573250,"op":"terminal.start"}
+{"executionId":"907151e3-70ce-4a15-98bd-5eae4712655d","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b]633;C\u0007","doc":5,"seq":197,"ms":3573307,"op":"terminal.output"}
+{"executionId":"907151e3-70ce-4a15-98bd-5eae4712655d","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"Enter temperature in F: ","doc":5,"seq":198,"ms":3573393,"op":"terminal.output"}
+{"version":149,"changes":[{"offset":155,"length":0,"text":"r"}],"doc":2,"seq":199,"ms":3574097,"op":"edit"}
+{"version":150,"reason":1,"changes":[{"offset":155,"length":1,"text":""}],"doc":2,"seq":200,"ms":3577197,"op":"edit"}
+{"executionId":"907151e3-70ce-4a15-98bd-5eae4712655d","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;25H4\u001b[7;26H","doc":5,"seq":201,"ms":3579395,"op":"terminal.output"}
+{"seq":202,"ms":3579557,"op":"end"}
