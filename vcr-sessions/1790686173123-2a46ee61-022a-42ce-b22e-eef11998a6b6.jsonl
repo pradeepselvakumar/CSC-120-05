@@ -1,3 +1,70 @@
 {"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-09-29T12:49:33.123Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"8f541a16-02f6-4e00-a6a8-64ac67c292c7","sourceWindowId":"5623cab8-f1b3-469d-b6c7-6c1662cc73de","seq":0,"ms":0,"op":"session"}
 {"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-8305,"op":"source.context"}
 {"text":"{\r\n  \"id\": \"26FA-CSC-120-05\",\r\n  \"name\": \"CSC-120\",\r\n  \"semester\": \"Fall\",\r\n  \"year\": 2026,\r\n  \"remoteUrl\": \"https://github.com/profpradeep/26FA-CSC-120-05.git\",\r\n  \"languages\": [\r\n    \"cpp\"\r\n  ]\r\n}","version":1,"path":"vcr-course.json","snapshot":true,"doc":1,"seq":2,"ms":-8305,"op":"snap"}
+{"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":3,"ms":3315728,"op":"source.context"}
+{"source":"workspace","path":"exercises/module_03/temp.cpp","doc":2,"seq":4,"ms":3315728,"op":"fs.create"}
+{"source":"watcher","doc":2,"seq":5,"ms":3315809,"op":"fs.create"}
+{"text":"","version":1,"snapshot":true,"doc":2,"seq":6,"ms":3315845,"op":"snap"}
+{"version":2,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":0,"length":0,"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main() {\r\n    cout << \"Hello, World!\" << endl;\r\n    return 0;\r\n}"}],"doc":2,"seq":7,"ms":3317094,"op":"edit"}
+{"version":3,"changes":[{"offset":57,"length":1,"text":"\r\n"}],"doc":2,"seq":8,"ms":3318645,"op":"edit"}
+{"version":4,"changes":[{"offset":116,"length":0,"text":"\r\n"}],"doc":2,"seq":9,"ms":3318650,"op":"edit"}
+{"doc":2,"seq":10,"ms":3318676,"op":"save"}
+{"executionId":"497c2b4f-656d-40ce-be89-c11ed729d071","name":"Compile active C++23 file","type":"process","path":".","doc":3,"seq":11,"ms":3320811,"op":"task.start"}
+{"executionId":"8df4dec5-5a89-4137-a921-a6a2ecee7e8c","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_03\\temp.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe -lstdc++exp ","confidence":0,"doc":3,"seq":12,"ms":3320859,"op":"terminal.start"}
+{"executionId":"497c2b4f-656d-40ce-be89-c11ed729d071","processId":16696,"doc":3,"seq":13,"ms":3321517,"op":"task.processStart"}
+{"executionId":"8df4dec5-5a89-4137-a921-a6a2ecee7e8c","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[7;1H","doc":3,"seq":14,"ms":3321604,"op":"terminal.output"}
+{"source":"watcher","path":".vscode/build/temp.exe","doc":4,"seq":15,"ms":3324385,"op":"fs.create"}
+{"executionId":"8df4dec5-5a89-4137-a921-a6a2ecee7e8c","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[?1004l\u001b[?9001l","doc":3,"seq":16,"ms":3324713,"op":"terminal.output"}
+{"executionId":"497c2b4f-656d-40ce-be89-c11ed729d071","exitCode":0,"doc":3,"seq":17,"ms":3324977,"op":"task.processEnd"}
+{"executionId":"497c2b4f-656d-40ce-be89-c11ed729d071","doc":3,"seq":18,"ms":3324986,"op":"task.end"}
+{"executionId":"8df4dec5-5a89-4137-a921-a6a2ecee7e8c","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_03\\temp.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe -lstdc++exp ","confidence":0,"exitCode":0,"doc":3,"seq":19,"ms":3324995,"op":"terminal.end"}
+{"executionId":"2ef1a98d-3628-4634-ada0-a7f2da69239a","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":3,"seq":20,"ms":3325113,"op":"debug.start"}
+{"executionId":"2ef1a98d-3628-4634-ada0-a7f2da69239a","doc":3,"seq":21,"ms":3327203,"op":"debug.end"}
+{"version":5,"changes":[{"offset":66,"length":32,"text":"d"}],"doc":2,"seq":22,"ms":3335072,"op":"edit"}
+{"version":6,"changes":[{"offset":67,"length":0,"text":"o"}],"doc":2,"seq":23,"ms":3335239,"op":"edit"}
+{"version":7,"changes":[{"offset":68,"length":0,"text":"u"}],"doc":2,"seq":24,"ms":3335306,"op":"edit"}
+{"version":8,"changes":[{"offset":69,"length":0,"text":"b"}],"doc":2,"seq":25,"ms":3335391,"op":"edit"}
+{"version":9,"changes":[{"offset":70,"length":0,"text":"l"}],"doc":2,"seq":26,"ms":3336200,"op":"edit"}
+{"version":10,"changes":[{"offset":71,"length":0,"text":"e"}],"doc":2,"seq":27,"ms":3336283,"op":"edit"}
+{"version":11,"changes":[{"offset":72,"length":0,"text":" "}],"doc":2,"seq":28,"ms":3336391,"op":"edit"}
+{"version":12,"changes":[{"offset":73,"length":0,"text":"c"}],"doc":2,"seq":29,"ms":3336833,"op":"edit"}
+{"version":13,"changes":[{"offset":74,"length":0,"text":","}],"doc":2,"seq":30,"ms":3337425,"op":"edit"}
+{"version":14,"changes":[{"offset":75,"length":0,"text":" "}],"doc":2,"seq":31,"ms":3337711,"op":"edit"}
+{"version":15,"changes":[{"offset":76,"length":0,"text":"f"}],"doc":2,"seq":32,"ms":3337872,"op":"edit"}
+{"version":16,"changes":[{"offset":77,"length":0,"text":";"}],"doc":2,"seq":33,"ms":3338144,"op":"edit"}
+{"version":17,"changes":[{"offset":78,"length":0,"text":"\r\n    "}],"doc":2,"seq":34,"ms":3338465,"op":"edit"}
+{"version":18,"changes":[{"offset":84,"length":0,"text":"c"}],"doc":2,"seq":35,"ms":3341860,"op":"edit"}
+{"version":19,"changes":[{"offset":85,"length":0,"text":"o"}],"doc":2,"seq":36,"ms":3341950,"op":"edit"}
+{"version":20,"changes":[{"offset":86,"length":0,"text":"u"}],"doc":2,"seq":37,"ms":3342033,"op":"edit"}
+{"version":21,"changes":[{"offset":87,"length":0,"text":"t"}],"doc":2,"seq":38,"ms":3342185,"op":"edit"}
+{"version":22,"changes":[{"offset":88,"length":0,"text":"r"}],"doc":2,"seq":39,"ms":3342197,"op":"edit"}
+{"version":23,"changes":[{"offset":89,"length":0,"text":" "}],"doc":2,"seq":40,"ms":3342282,"op":"edit"}
+{"version":24,"changes":[{"offset":89,"length":1,"text":""}],"doc":2,"seq":41,"ms":3342987,"op":"edit"}
+{"version":25,"changes":[{"offset":88,"length":1,"text":""}],"doc":2,"seq":42,"ms":3343145,"op":"edit"}
+{"version":26,"changes":[{"offset":88,"length":0,"text":" "}],"doc":2,"seq":43,"ms":3343427,"op":"edit"}
+{"version":27,"changes":[{"offset":89,"length":0,"text":"<"}],"doc":2,"seq":44,"ms":3343695,"op":"edit"}
+{"version":28,"changes":[{"offset":90,"length":0,"text":"<"}],"doc":2,"seq":45,"ms":3343841,"op":"edit"}
+{"version":29,"changes":[{"offset":91,"length":0,"text":"\"\""}],"doc":2,"seq":46,"ms":3344335,"op":"edit"}
+{"version":30,"changes":[{"offset":91,"length":2,"text":""}],"doc":2,"seq":47,"ms":3344873,"op":"edit"}
+{"version":31,"changes":[{"offset":91,"length":0,"text":" "}],"doc":2,"seq":48,"ms":3344953,"op":"edit"}
+{"version":32,"changes":[{"offset":92,"length":0,"text":"\"\""}],"doc":2,"seq":49,"ms":3345574,"op":"edit"}
+{"version":33,"changes":[{"offset":93,"length":0,"text":"E"}],"doc":2,"seq":50,"ms":3347230,"op":"edit"}
+{"version":34,"changes":[{"offset":94,"length":0,"text":"n"}],"doc":2,"seq":51,"ms":3347460,"op":"edit"}
+{"version":35,"changes":[{"offset":95,"length":0,"text":"t"}],"doc":2,"seq":52,"ms":3347620,"op":"edit"}
+{"version":36,"changes":[{"offset":96,"length":0,"text":"e"}],"doc":2,"seq":53,"ms":3347745,"op":"edit"}
+{"version":37,"changes":[{"offset":97,"length":0,"text":"r"}],"doc":2,"seq":54,"ms":3347854,"op":"edit"}
+{"version":38,"changes":[{"offset":98,"length":0,"text":" "}],"doc":2,"seq":55,"ms":3347956,"op":"edit"}
+{"version":39,"changes":[{"offset":99,"length":0,"text":"t"}],"doc":2,"seq":56,"ms":3348428,"op":"edit"}
+{"version":40,"changes":[{"offset":100,"length":0,"text":"e"}],"doc":2,"seq":57,"ms":3348554,"op":"edit"}
+{"version":41,"changes":[{"offset":101,"length":0,"text":"r"}],"doc":2,"seq":58,"ms":3348648,"op":"edit"}
+{"version":42,"changes":[{"offset":102,"length":0,"text":"m"}],"doc":2,"seq":59,"ms":3348813,"op":"edit"}
+{"version":43,"changes":[{"offset":102,"length":1,"text":""}],"doc":2,"seq":60,"ms":3349482,"op":"edit"}
+{"version":44,"changes":[{"offset":101,"length":1,"text":""}],"doc":2,"seq":61,"ms":3349640,"op":"edit"}
+{"version":45,"changes":[{"offset":101,"length":0,"text":"p"}],"doc":2,"seq":62,"ms":3350150,"op":"edit"}
+{"version":46,"changes":[{"offset":101,"length":1,"text":""}],"doc":2,"seq":63,"ms":3350606,"op":"edit"}
+{"version":47,"changes":[{"offset":101,"length":0,"text":"m"}],"doc":2,"seq":64,"ms":3350994,"op":"edit"}
+{"version":48,"changes":[{"offset":102,"length":0,"text":"p"}],"doc":2,"seq":65,"ms":3351237,"op":"edit"}
+{"version":49,"changes":[{"offset":103,"length":0,"text":"e"}],"doc":2,"seq":66,"ms":3351372,"op":"edit"}
+{"version":50,"changes":[{"offset":104,"length":0,"text":"r"}],"doc":2,"seq":67,"ms":3351449,"op":"edit"}
+{"version":51,"changes":[{"offset":105,"length":0,"text":"r"}],"doc":2,"seq":68,"ms":3351655,"op":"edit"}
+{"version":52,"changes":[{"offset":105,"length":1,"text":""}],"doc":2,"seq":69,"ms":3352078,"op":"edit"}
