@@ -2,3 +2,4 @@
 {"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-7,"op":"source.context"}
 {"text":"{\r\n  \"id\": \"26FA-CSC-120-05\",\r\n  \"name\": \"CSC-120\",\r\n  \"semester\": \"Fall\",\r\n  \"year\": 2026,\r\n  \"remoteUrl\": \"https://github.com/profpradeep/26FA-CSC-120-05.git\",\r\n  \"languages\": [\r\n    \"cpp\"\r\n  ]\r\n}","version":1,"path":"vcr-course.json","snapshot":true,"doc":1,"seq":2,"ms":-7,"op":"snap"}
 {"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    double c, f;\r\n    cout << \"Enter temperature in F: \";\r\n    cin >> f;\r\n\r\n    c = (f - 32) * 5 / 9;\r\n\r\n    cout << f << \"F = \" << c << \"C!\" << endl;\r\n\r\n    return 0;\r\n}\r\n","version":157,"path":"exercises/module_03/temp.cpp","snapshot":true,"doc":2,"seq":3,"ms":-7,"op":"snap"}
+{"seq":4,"ms":3600497,"op":"end"}
