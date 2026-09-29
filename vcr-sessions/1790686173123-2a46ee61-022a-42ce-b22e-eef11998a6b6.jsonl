@@ -1,0 +1,3 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-09-29T12:49:33.123Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"8f541a16-02f6-4e00-a6a8-64ac67c292c7","sourceWindowId":"5623cab8-f1b3-469d-b6c7-6c1662cc73de","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-8305,"op":"source.context"}
+{"text":"{\r\n  \"id\": \"26FA-CSC-120-05\",\r\n  \"name\": \"CSC-120\",\r\n  \"semester\": \"Fall\",\r\n  \"year\": 2026,\r\n  \"remoteUrl\": \"https://github.com/profpradeep/26FA-CSC-120-05.git\",\r\n  \"languages\": [\r\n    \"cpp\"\r\n  ]\r\n}","version":1,"path":"vcr-course.json","snapshot":true,"doc":1,"seq":2,"ms":-8305,"op":"snap"}
