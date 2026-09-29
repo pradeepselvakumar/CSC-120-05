@@ -6,3 +6,13 @@
 {"executionId":"907151e3-70ce-4a15-98bd-5eae4712655d","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;27H\r\n45F = 0C!\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":3,"seq":5,"ms":676,"op":"terminal.output"}
 {"executionId":"907151e3-70ce-4a15-98bd-5eae4712655d","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe","confidence":2,"exitCode":0,"doc":3,"seq":6,"ms":677,"op":"terminal.end"}
 {"executionId":"0c2020f4-29d4-49d5-981c-44ba344a8c90","path":".","doc":4,"seq":7,"ms":718,"op":"debug.end"}
+{"version":151,"changes":[{"offset":159,"length":0,"text":"."}],"doc":2,"seq":8,"ms":51824,"op":"edit"}
+{"version":152,"changes":[{"offset":160,"length":0,"text":"0"}],"doc":2,"seq":9,"ms":52269,"op":"edit"}
+{"doc":2,"seq":10,"ms":70288,"op":"save"}
+{"executionId":"e4081aca-3f9a-4c58-b064-40e2a0bb1c7f","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_03\\temp.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe -lstdc++exp ","confidence":0,"doc":4,"seq":11,"ms":70735,"op":"terminal.start"}
+{"executionId":"5e79014d-fbe1-43ad-8c3f-3eea6b315c0a","name":"Compile active C++23 file","type":"process","doc":4,"seq":12,"ms":70759,"op":"task.start"}
+{"executionId":"5e79014d-fbe1-43ad-8c3f-3eea6b315c0a","processId":39068,"doc":4,"seq":13,"ms":70833,"op":"task.processStart"}
+{"executionId":"e4081aca-3f9a-4c58-b064-40e2a0bb1c7f","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[1;1H","doc":4,"seq":14,"ms":70913,"op":"terminal.output"}
+{"source":"watcher","path":".vscode/build/temp.exe","doc":5,"seq":15,"ms":72314,"op":"fs.delete"}
+{"executionId":"e4081aca-3f9a-4c58-b064-40e2a0bb1c7f","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[?1004l\u001b[?9001l","doc":4,"seq":16,"ms":72374,"op":"terminal.output"}
+{"source":"watcher","doc":5,"seq":17,"ms":72430,"op":"fs.create"}
