@@ -176,3 +176,10 @@
 {"executionId":"e3d65968-81f3-4ffb-8d1e-bba2fcfae593","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[5;27H\r\n45F = 0C!\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":5,"seq":175,"ms":3435405,"op":"terminal.output"}
 {"executionId":"e3d65968-81f3-4ffb-8d1e-bba2fcfae593","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe","confidence":2,"exitCode":0,"doc":5,"seq":176,"ms":3435405,"op":"terminal.end"}
 {"executionId":"328a2a23-73c1-483b-812b-775f1cd48224","doc":3,"seq":177,"ms":3435410,"op":"debug.end"}
+{"version":143,"changes":[{"offset":146,"length":7,"text":""}],"doc":2,"seq":178,"ms":3519227,"op":"edit"}
+{"version":144,"changes":[{"offset":146,"length":3,"text":""}],"doc":2,"seq":179,"ms":3521320,"op":"edit"}
+{"version":145,"changes":[{"offset":154,"length":0,"text":" "}],"doc":2,"seq":180,"ms":3523126,"op":"edit"}
+{"version":146,"changes":[{"offset":155,"length":0,"text":"*"}],"doc":2,"seq":181,"ms":3524132,"op":"edit"}
+{"version":147,"changes":[{"offset":156,"length":0,"text":" "}],"doc":2,"seq":182,"ms":3524617,"op":"edit"}
+{"version":148,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":157,"length":0,"text":"(5 / 9)"}],"doc":2,"seq":183,"ms":3525771,"op":"edit"}
+{"doc":2,"seq":184,"ms":3527569,"op":"save"}
