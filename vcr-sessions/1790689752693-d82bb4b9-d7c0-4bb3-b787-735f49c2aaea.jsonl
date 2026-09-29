@@ -51,3 +51,5 @@
 {"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;27H\r\n45F = 7.22222C!\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":3,"seq":50,"ms":121119,"op":"terminal.output"}
 {"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe","confidence":2,"exitCode":0,"doc":3,"seq":51,"ms":121119,"op":"terminal.end"}
 {"executionId":"d0925020-59bc-4470-b64a-bc4caef3129f","doc":4,"seq":52,"ms":121129,"op":"debug.end"}
+{"version":156,"changes":[{"offset":185,"length":1,"text":""}],"doc":2,"seq":53,"ms":2818547,"op":"edit"}
+{"version":157,"reason":1,"changes":[{"offset":185,"length":0,"text":"F"}],"doc":2,"seq":54,"ms":2820022,"op":"edit"}
