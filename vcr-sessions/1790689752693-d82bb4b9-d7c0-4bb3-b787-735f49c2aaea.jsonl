@@ -16,3 +16,38 @@
 {"source":"watcher","path":".vscode/build/temp.exe","doc":5,"seq":15,"ms":72314,"op":"fs.delete"}
 {"executionId":"e4081aca-3f9a-4c58-b064-40e2a0bb1c7f","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[?1004l\u001b[?9001l","doc":4,"seq":16,"ms":72374,"op":"terminal.output"}
 {"source":"watcher","doc":5,"seq":17,"ms":72430,"op":"fs.create"}
+{"executionId":"5e79014d-fbe1-43ad-8c3f-3eea6b315c0a","exitCode":0,"doc":4,"seq":18,"ms":72612,"op":"task.processEnd"}
+{"executionId":"5e79014d-fbe1-43ad-8c3f-3eea6b315c0a","doc":4,"seq":19,"ms":72616,"op":"task.end"}
+{"executionId":"e4081aca-3f9a-4c58-b064-40e2a0bb1c7f","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","commandLine":" *  ","confidence":0,"exitCode":0,"doc":4,"seq":20,"ms":72618,"op":"terminal.end"}
+{"executionId":"4852898f-33cc-4c50-abc1-5b1d985bf8fd","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":4,"seq":21,"ms":72627,"op":"debug.start"}
+{"executionId":"80e22fe5-7ac7-40f4-8a88-a78e33a01448","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe","confidence":2,"doc":3,"seq":22,"ms":72758,"op":"terminal.start"}
+{"executionId":"80e22fe5-7ac7-40f4-8a88-a78e33a01448","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b]633;C\u0007","doc":3,"seq":23,"ms":72810,"op":"terminal.output"}
+{"executionId":"80e22fe5-7ac7-40f4-8a88-a78e33a01448","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"Enter temperature in F: ","doc":3,"seq":24,"ms":72889,"op":"terminal.output"}
+{"executionId":"80e22fe5-7ac7-40f4-8a88-a78e33a01448","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;25H4\u001b[7;26H","doc":3,"seq":25,"ms":74477,"op":"terminal.output"}
+{"executionId":"80e22fe5-7ac7-40f4-8a88-a78e33a01448","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;26H5\u001b[7;27H","doc":3,"seq":26,"ms":74709,"op":"terminal.output"}
+{"executionId":"80e22fe5-7ac7-40f4-8a88-a78e33a01448","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;27H\r\n45F = 7.22222C!\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":3,"seq":27,"ms":75153,"op":"terminal.output"}
+{"executionId":"80e22fe5-7ac7-40f4-8a88-a78e33a01448","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe","confidence":2,"exitCode":0,"doc":3,"seq":28,"ms":75154,"op":"terminal.end"}
+{"executionId":"4852898f-33cc-4c50-abc1-5b1d985bf8fd","doc":4,"seq":29,"ms":75172,"op":"debug.end"}
+{"version":153,"changes":[{"offset":159,"length":2,"text":""}],"doc":2,"seq":30,"ms":85539,"op":"edit"}
+{"version":154,"changes":[{"offset":157,"length":1,"text":""}],"doc":2,"seq":31,"ms":86306,"op":"edit"}
+{"version":155,"changes":[{"offset":162,"length":1,"text":""}],"doc":2,"seq":32,"ms":87866,"op":"edit"}
+{"doc":2,"seq":33,"ms":89137,"op":"save"}
+{"executionId":"bf36ee56-9e61-4110-90b0-f1f7a5ff49fe","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_03\\temp.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe -lstdc++exp ","confidence":0,"doc":4,"seq":34,"ms":117202,"op":"terminal.start"}
+{"executionId":"25f79838-840c-4313-bb62-51d07529dd42","name":"Compile active C++23 file","type":"process","doc":4,"seq":35,"ms":117224,"op":"task.start"}
+{"executionId":"25f79838-840c-4313-bb62-51d07529dd42","processId":37876,"doc":4,"seq":36,"ms":117292,"op":"task.processStart"}
+{"executionId":"bf36ee56-9e61-4110-90b0-f1f7a5ff49fe","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[1;1H","doc":4,"seq":37,"ms":117368,"op":"terminal.output"}
+{"source":"watcher","doc":5,"seq":38,"ms":118516,"op":"fs.delete"}
+{"executionId":"bf36ee56-9e61-4110-90b0-f1f7a5ff49fe","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","data":"\u001b[?1004l\u001b[?9001l","doc":4,"seq":39,"ms":118546,"op":"terminal.output"}
+{"source":"watcher","doc":5,"seq":40,"ms":118613,"op":"fs.create"}
+{"executionId":"25f79838-840c-4313-bb62-51d07529dd42","exitCode":0,"doc":4,"seq":41,"ms":118802,"op":"task.processEnd"}
+{"executionId":"25f79838-840c-4313-bb62-51d07529dd42","doc":4,"seq":42,"ms":118811,"op":"task.end"}
+{"executionId":"bf36ee56-9e61-4110-90b0-f1f7a5ff49fe","terminalId":"f4025f46-7688-4c42-9dd3-4e4a28013472","commandLine":" *  ","confidence":0,"exitCode":0,"doc":4,"seq":43,"ms":118815,"op":"terminal.end"}
+{"executionId":"d0925020-59bc-4470-b64a-bc4caef3129f","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":4,"seq":44,"ms":118866,"op":"debug.start"}
+{"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe","confidence":2,"doc":3,"seq":45,"ms":118921,"op":"terminal.start"}
+{"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b]633;C\u0007","doc":3,"seq":46,"ms":118972,"op":"terminal.output"}
+{"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"Enter temperature in F: ","doc":3,"seq":47,"ms":119044,"op":"terminal.output"}
+{"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;25H4\u001b[7;26H","doc":3,"seq":48,"ms":120677,"op":"terminal.output"}
+{"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;26H5\u001b[7;27H","doc":3,"seq":49,"ms":120903,"op":"terminal.output"}
+{"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","data":"\u001b[7;27H\r\n45F = 7.22222C!\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":3,"seq":50,"ms":121119,"op":"terminal.output"}
+{"executionId":"bdf52a2b-7f42-4d44-9db2-e64ca3169277","terminalId":"5dcf9ace-b767-4606-9fce-11ff02b9a91b","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/temp.exe","confidence":2,"exitCode":0,"doc":3,"seq":51,"ms":121119,"op":"terminal.end"}
+{"executionId":"d0925020-59bc-4470-b64a-bc4caef3129f","doc":4,"seq":52,"ms":121129,"op":"debug.end"}
