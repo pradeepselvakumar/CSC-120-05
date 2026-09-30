@@ -12,3 +12,12 @@
 {"version":5,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":85,"length":114,"text":"if (age >= 18)\r\n{\r\n    cout << \"You are an adult.\" << endl;\r\n}\r\nelse\r\n{\r\n    cout << \"You are not an adult.\" << endl;\r\n}"}],"doc":3,"seq":11,"ms":809922,"op":"edit"}
 {"version":6,"changes":[{"offset":204,"length":0,"text":"    "},{"offset":158,"length":0,"text":"    "},{"offset":155,"length":0,"text":"    "},{"offset":149,"length":0,"text":"    "},{"offset":146,"length":0,"text":"    "},{"offset":108,"length":0,"text":"    "},{"offset":101,"length":0,"text":"    "}],"doc":3,"seq":12,"ms":812553,"op":"edit"}
 {"version":7,"changes":[{"offset":79,"length":0,"text":"\r\n    "}],"doc":3,"seq":13,"ms":815890,"op":"edit"}
+{"version":8,"changes":[{"offset":85,"length":0,"text":"c"}],"doc":3,"seq":14,"ms":821155,"op":"edit"}
+{"version":9,"changes":[{"offset":86,"length":0,"text":"o"}],"doc":3,"seq":15,"ms":821263,"op":"edit"}
+{"version":10,"changes":[{"offset":87,"length":0,"text":"u"}],"doc":3,"seq":16,"ms":821314,"op":"edit"}
+{"version":11,"changes":[{"offset":88,"length":0,"text":"t"}],"doc":3,"seq":17,"ms":821417,"op":"edit"}
+{"version":12,"changes":[{"offset":89,"length":0,"text":" "}],"doc":3,"seq":18,"ms":821490,"op":"edit"}
+{"version":13,"changes":[{"offset":90,"length":0,"text":"<"}],"doc":3,"seq":19,"ms":822072,"op":"edit"}
+{"version":14,"changes":[{"offset":91,"length":0,"text":"<"}],"doc":3,"seq":20,"ms":822239,"op":"edit"}
+{"version":15,"changes":[{"offset":92,"length":0,"text":" "}],"doc":3,"seq":21,"ms":822345,"op":"edit"}
+{"version":16,"changes":[{"offset":93,"length":0,"text":"\"\""}],"doc":3,"seq":22,"ms":822496,"op":"edit"}
