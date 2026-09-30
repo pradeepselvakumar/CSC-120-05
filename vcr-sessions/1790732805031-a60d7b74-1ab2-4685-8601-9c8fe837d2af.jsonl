@@ -30,3 +30,4 @@
 {"version":23,"changes":[{"offset":233,"length":2,"text":""}],"doc":3,"seq":29,"ms":843401,"op":"edit"}
 {"version":24,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":64,"length":169,"text":"int number;\r\n\r\ncout << \"Enter a number: \";\r\ncin >> number;\r\n\r\nif (number > 0)\r\n{\r\n    cout << \"Positive\" << endl;\r\n}\r\nelse\r\n{\r\n    cout << \"Not positive\" << endl;\r\n}"}],"doc":3,"seq":30,"ms":984954,"op":"edit"}
 {"version":25,"changes":[{"offset":228,"length":0,"text":"    "},{"offset":191,"length":0,"text":"    "},{"offset":188,"length":0,"text":"    "},{"offset":182,"length":0,"text":"    "},{"offset":179,"length":0,"text":"    "},{"offset":150,"length":0,"text":"    "},{"offset":143,"length":0,"text":"    "},{"offset":126,"length":0,"text":"    "},{"offset":108,"length":0,"text":"    "},{"offset":79,"length":0,"text":"    "}],"doc":3,"seq":31,"ms":986926,"op":"edit"}
+{"seq":32,"ms":2676388,"op":"end"}
