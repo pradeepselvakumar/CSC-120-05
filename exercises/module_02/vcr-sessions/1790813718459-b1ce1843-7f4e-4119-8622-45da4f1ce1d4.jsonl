@@ -4,3 +4,4 @@
 {"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    int num1 = 75;\r\n    int num2 = 100;\r\n    int total = num1 + num2;\r\n\r\n    // cout << total << endl;\r\n    cout << \"The sum of \" << num1 << \" and \" << num2 << \" is \" << total << endl;\r\n    return 0;\r\n}\r\n","version":1,"path":"sum.cpp","snapshot":true,"doc":2,"seq":3,"ms":-30,"op":"snap"}
 {"doc":2,"seq":4,"ms":1434901,"op":"close"}
 {"doc":1,"seq":5,"ms":1434906,"op":"close"}
+{"seq":6,"ms":3586243,"op":"end"}
