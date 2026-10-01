@@ -23,3 +23,4 @@
 {"executionId":"2221ef89-3d00-44ff-9c02-5d945ab50063","terminalId":"01bcdc42-9dc8-46f1-8dce-fd65b881849f","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_03\\rel_expressions.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/rel_expressions.exe -lstdc++exp ","confidence":0,"exitCode":0,"doc":4,"seq":22,"ms":1462214,"op":"terminal.end"}
 {"executionId":"8f66ff62-846e-4481-8739-9a3366916357","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":4,"seq":23,"ms":1462269,"op":"debug.start"}
 {"executionId":"8f66ff62-846e-4481-8739-9a3366916357","doc":4,"seq":24,"ms":1464230,"op":"debug.end"}
+{"seq":25,"ms":3586265,"op":"end"}
