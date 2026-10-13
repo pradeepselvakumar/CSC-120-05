@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-10-13T16:10:57.213Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"ee79ed10-f450-46d8-94d7-9c64a048ff12","sourceWindowId":"3e1c1105-638a-4a4a-a3ca-279348dadc3e","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-9,"op":"source.context"}
+{"text":"#include <iostream>\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n\r\n    int a = 5, b = 8;\r\n\r\n    cout << (a < b) << endl;  // prints 1 (true)\r\n    cout << (a == b) << endl; // prints 0 (false)\r\n\r\n    string name = \"Nathan\";\r\n    cout << (name == \"Nathan\") << endl;\r\n    cout << (name != \"Nathan\") << endl;\r\n\r\n    return 0;\r\n}\r\n","version":1,"path":"exercises/module_03/rel_expressions.cpp","snapshot":true,"doc":1,"seq":2,"ms":-9,"op":"snap"}
+{"seq":3,"ms":13978,"op":"end"}
