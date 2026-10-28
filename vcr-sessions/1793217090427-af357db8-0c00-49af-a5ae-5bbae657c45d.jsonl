@@ -1,0 +1,13 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-10-28T19:51:30.428Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"89699665-ff0a-408a-8fd5-0e86d031f90f","sourceWindowId":"dfff6054-1d4b-4918-8483-b2c3f0fc243f","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-9,"op":"source.context"}
+{"executionId":"75c28c12-8921-4dbf-8b6b-9c0420d7d295","name":"Compile active C++23 file","type":"process","path":".","doc":1,"seq":2,"ms":-9,"op":"task.start"}
+{"executionId":"247b94b1-2d5b-4d49-a3ec-3fab36942b76","terminalId":"204ad2a4-6763-483f-919a-a405948bb091","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\assignments\\assignment_02\\test2.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/test2.exe -lstdc++exp ","confidence":0,"doc":1,"seq":3,"ms":8,"op":"terminal.start"}
+{"executionId":"75c28c12-8921-4dbf-8b6b-9c0420d7d295","processId":33984,"doc":1,"seq":4,"ms":282,"op":"task.processStart"}
+{"executionId":"247b94b1-2d5b-4d49-a3ec-3fab36942b76","terminalId":"204ad2a4-6763-483f-919a-a405948bb091","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[5;1H","doc":1,"seq":5,"ms":358,"op":"terminal.output"}
+{"source":"watcher","path":".vscode/build/test2.exe","doc":2,"seq":6,"ms":1553,"op":"fs.create"}
+{"executionId":"247b94b1-2d5b-4d49-a3ec-3fab36942b76","terminalId":"204ad2a4-6763-483f-919a-a405948bb091","data":"\u001b[?1004l\u001b[?9001l","doc":1,"seq":7,"ms":1556,"op":"terminal.output"}
+{"executionId":"75c28c12-8921-4dbf-8b6b-9c0420d7d295","exitCode":0,"doc":1,"seq":8,"ms":1822,"op":"task.processEnd"}
+{"executionId":"75c28c12-8921-4dbf-8b6b-9c0420d7d295","doc":1,"seq":9,"ms":1827,"op":"task.end"}
+{"executionId":"247b94b1-2d5b-4d49-a3ec-3fab36942b76","terminalId":"204ad2a4-6763-483f-919a-a405948bb091","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\assignments\\assignment_02\\test2.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/test2.exe -lstdc++exp ","confidence":0,"exitCode":0,"doc":1,"seq":10,"ms":1829,"op":"terminal.end"}
+{"executionId":"83b6949b-ef65-4f7a-a9a9-0bf394b85c1f","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":1,"seq":11,"ms":1893,"op":"debug.start"}
+{"executionId":"83b6949b-ef65-4f7a-a9a9-0bf394b85c1f","doc":1,"seq":12,"ms":2780,"op":"debug.end"}
