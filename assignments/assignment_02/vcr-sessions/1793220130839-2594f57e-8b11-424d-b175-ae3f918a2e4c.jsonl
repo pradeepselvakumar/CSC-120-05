@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_02","startedAt":"2026-10-28T20:42:10.839Z","attemptId":"9be16f88-15d5-4524-83f0-ab588f81cce9","segmentId":"9feb4ac7-b6ff-4610-a2b0-509d84ab6992","sourceWindowId":"dfff6054-1d4b-4918-8483-b2c3f0fc243f","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-22,"op":"source.context"}
+{"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    cout << \"Who dis?\" << endl;\r\n}\r\n","version":83,"path":"test2.cpp","snapshot":true,"doc":1,"seq":2,"ms":-22,"op":"snap"}
+{"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    cout << \"Testing VCR!\" << endl;\r\n}\r\n","version":1,"path":"test.cpp","snapshot":true,"doc":2,"seq":3,"ms":-22,"op":"snap"}

@@ -11,3 +11,4 @@
 {"executionId":"247b94b1-2d5b-4d49-a3ec-3fab36942b76","terminalId":"204ad2a4-6763-483f-919a-a405948bb091","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\assignments\\assignment_02\\test2.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/test2.exe -lstdc++exp ","confidence":0,"exitCode":0,"doc":1,"seq":10,"ms":1829,"op":"terminal.end"}
 {"executionId":"83b6949b-ef65-4f7a-a9a9-0bf394b85c1f","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":1,"seq":11,"ms":1893,"op":"debug.start"}
 {"executionId":"83b6949b-ef65-4f7a-a9a9-0bf394b85c1f","doc":1,"seq":12,"ms":2780,"op":"debug.end"}
+{"seq":13,"ms":3040388,"op":"end"}
