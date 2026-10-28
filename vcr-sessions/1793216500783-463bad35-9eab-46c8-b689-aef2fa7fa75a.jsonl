@@ -1,0 +1,28 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-10-28T19:41:40.784Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"0902bbd8-fb89-4936-a734-277cae7639eb","sourceWindowId":"d5b0388d-8cc4-4d73-9b31-9021d629da9a","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-13302,"op":"source.context"}
+{"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    cout << \"Testing VCR!\" << endl;\r\n}\r\n","version":1,"path":"assignments/assignment_02/test.cpp","snapshot":true,"doc":1,"seq":2,"ms":-13302,"op":"snap"}
+{"source":"workspace","path":"assignments/assignment_02/test2.cpp","doc":2,"seq":3,"ms":10408,"op":"fs.create"}
+{"text":"","version":1,"snapshot":true,"doc":2,"seq":4,"ms":10439,"op":"snap"}
+{"source":"watcher","doc":2,"seq":5,"ms":10491,"op":"fs.create"}
+{"version":2,"changes":[{"offset":0,"length":0,"text":"D"}],"doc":2,"seq":6,"ms":12131,"op":"edit"}
+{"version":3,"changes":[{"offset":1,"length":0,"text":"o"}],"doc":2,"seq":7,"ms":12414,"op":"edit"}
+{"version":4,"changes":[{"offset":2,"length":0,"text":"w"}],"doc":2,"seq":8,"ms":12507,"op":"edit"}
+{"version":5,"changes":[{"offset":2,"length":1,"text":""}],"doc":2,"seq":9,"ms":13134,"op":"edit"}
+{"version":6,"changes":[{"offset":2,"length":0,"text":"e"}],"doc":2,"seq":10,"ms":13185,"op":"edit"}
+{"version":7,"changes":[{"offset":3,"length":0,"text":"s"}],"doc":2,"seq":11,"ms":13339,"op":"edit"}
+{"version":8,"changes":[{"offset":4,"length":0,"text":" "}],"doc":2,"seq":12,"ms":13453,"op":"edit"}
+{"version":9,"changes":[{"offset":5,"length":0,"text":"t"}],"doc":2,"seq":13,"ms":13631,"op":"edit"}
+{"version":10,"changes":[{"offset":6,"length":0,"text":"h"}],"doc":2,"seq":14,"ms":13690,"op":"edit"}
+{"version":11,"changes":[{"offset":7,"length":0,"text":"i"}],"doc":2,"seq":15,"ms":13773,"op":"edit"}
+{"version":12,"changes":[{"offset":8,"length":0,"text":"s"}],"doc":2,"seq":16,"ms":13839,"op":"edit"}
+{"version":13,"changes":[{"offset":9,"length":0,"text":" "}],"doc":2,"seq":17,"ms":13909,"op":"edit"}
+{"version":14,"changes":[{"offset":10,"length":0,"text":"w"}],"doc":2,"seq":18,"ms":14057,"op":"edit"}
+{"version":15,"changes":[{"offset":11,"length":0,"text":"o"}],"doc":2,"seq":19,"ms":14149,"op":"edit"}
+{"version":16,"changes":[{"offset":12,"length":0,"text":"r"}],"doc":2,"seq":20,"ms":14339,"op":"edit"}
+{"version":17,"changes":[{"offset":13,"length":0,"text":"k"}],"doc":2,"seq":21,"ms":14425,"op":"edit"}
+{"version":18,"changes":[{"offset":14,"length":0,"text":"?"}],"doc":2,"seq":22,"ms":14722,"op":"edit"}
+{"version":19,"changes":[{"offset":0,"length":0,"text":"/"}],"doc":2,"seq":23,"ms":16131,"op":"edit"}
+{"version":20,"changes":[{"offset":1,"length":0,"text":"/"}],"doc":2,"seq":24,"ms":16248,"op":"edit"}
+{"version":21,"changes":[{"offset":2,"length":0,"text":" "}],"doc":2,"seq":25,"ms":16564,"op":"edit"}
+{"version":22,"changes":[{"offset":18,"length":0,"text":"\r\n"}],"doc":2,"seq":26,"ms":17507,"op":"edit"}
+{"doc":2,"seq":27,"ms":17515,"op":"save"}
