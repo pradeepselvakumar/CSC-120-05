@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"assignments/assignment_02","startedAt":"2026-10-28T19:44:39.375Z","attemptId":"9be16f88-15d5-4524-83f0-ab588f81cce9","segmentId":"61274215-6d10-46bc-a73b-55077a2a9f42","sourceWindowId":"1b3bddb7-ebae-463d-b752-90e9be6ae099","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-10716,"op":"source.context"}
+{"text":"// Does this work?\r\n","version":1,"path":"test2.cpp","snapshot":true,"doc":1,"seq":2,"ms":-10716,"op":"snap"}
+{"seq":3,"ms":17088,"op":"end"}
