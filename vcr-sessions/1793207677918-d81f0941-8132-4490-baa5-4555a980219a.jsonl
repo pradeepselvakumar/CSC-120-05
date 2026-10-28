@@ -98,3 +98,11 @@
 {"executionId":"65a21058-2fa8-4f3d-ae60-687a526842fe","terminalId":"e9fa96c8-636a-4633-bf23-54da88002784","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\assignments\\assignment_02\\test.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/test.exe -lstdc++exp ","confidence":0,"doc":4,"seq":97,"ms":167475,"op":"terminal.start"}
 {"executionId":"9b25acf2-6c68-4906-9e5f-97c990e92393","processId":23396,"doc":4,"seq":98,"ms":167771,"op":"task.processStart"}
 {"executionId":"65a21058-2fa8-4f3d-ae60-687a526842fe","terminalId":"e9fa96c8-636a-4633-bf23-54da88002784","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[5;1H","doc":4,"seq":99,"ms":167857,"op":"terminal.output"}
+{"source":"watcher","path":".vscode/build/test.exe","doc":5,"seq":100,"ms":169529,"op":"fs.create"}
+{"executionId":"65a21058-2fa8-4f3d-ae60-687a526842fe","terminalId":"e9fa96c8-636a-4633-bf23-54da88002784","data":"\u001b[?1004l\u001b[?9001l","doc":4,"seq":101,"ms":169674,"op":"terminal.output"}
+{"executionId":"9b25acf2-6c68-4906-9e5f-97c990e92393","exitCode":0,"doc":4,"seq":102,"ms":169936,"op":"task.processEnd"}
+{"executionId":"9b25acf2-6c68-4906-9e5f-97c990e92393","doc":4,"seq":103,"ms":169938,"op":"task.end"}
+{"executionId":"65a21058-2fa8-4f3d-ae60-687a526842fe","terminalId":"e9fa96c8-636a-4633-bf23-54da88002784","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\assignments\\assignment_02\\test.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/test.exe -lstdc++exp ","confidence":0,"exitCode":0,"doc":4,"seq":104,"ms":169946,"op":"terminal.end"}
+{"executionId":"1458729b-b259-4466-adc4-9c43fd2b656c","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":4,"seq":105,"ms":169987,"op":"debug.start"}
+{"executionId":"1458729b-b259-4466-adc4-9c43fd2b656c","doc":4,"seq":106,"ms":170949,"op":"debug.end"}
+{"seq":107,"ms":177919,"op":"end"}
