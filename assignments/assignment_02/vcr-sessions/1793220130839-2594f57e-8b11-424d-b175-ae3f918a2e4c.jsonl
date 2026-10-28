@@ -2,3 +2,4 @@
 {"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-22,"op":"source.context"}
 {"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    cout << \"Who dis?\" << endl;\r\n}\r\n","version":83,"path":"test2.cpp","snapshot":true,"doc":1,"seq":2,"ms":-22,"op":"snap"}
 {"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    cout << \"Testing VCR!\" << endl;\r\n}\r\n","version":1,"path":"test.cpp","snapshot":true,"doc":2,"seq":3,"ms":-22,"op":"snap"}
+{"seq":4,"ms":446364,"op":"end"}
