@@ -1,0 +1,12 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-10-29T01:12:08.172Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"84ec9c5d-fe34-4689-aa9f-6b86e75224e9","sourceWindowId":"60fadd6d-9c2e-4483-a44d-c67b828b5f85","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-6248,"op":"source.context"}
+{"executionId":"53d2e222-7b6b-4d21-af15-b9efab460a7b","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_05\\division.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/division.exe -lstdc++exp ","confidence":0,"path":".","doc":1,"seq":2,"ms":-6248,"op":"terminal.start"}
+{"executionId":"440fb11a-189b-4396-87eb-c140fb8ac051","name":"Compile active C++23 file","type":"process","doc":1,"seq":3,"ms":-6207,"op":"task.start"}
+{"executionId":"440fb11a-189b-4396-87eb-c140fb8ac051","processId":7964,"doc":1,"seq":4,"ms":-5545,"op":"task.processStart"}
+{"executionId":"53d2e222-7b6b-4d21-af15-b9efab460a7b","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[1;1H","doc":1,"seq":5,"ms":-5467,"op":"terminal.output"}
+{"executionId":"53d2e222-7b6b-4d21-af15-b9efab460a7b","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","data":"\u001b[?1004l\u001b[?9001l","doc":1,"seq":6,"ms":-1884,"op":"terminal.output"}
+{"executionId":"440fb11a-189b-4396-87eb-c140fb8ac051","exitCode":0,"doc":1,"seq":7,"ms":-1601,"op":"task.processEnd"}
+{"executionId":"440fb11a-189b-4396-87eb-c140fb8ac051","doc":1,"seq":8,"ms":-1596,"op":"task.end"}
+{"executionId":"53d2e222-7b6b-4d21-af15-b9efab460a7b","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","commandLine":" *  ","confidence":0,"exitCode":0,"doc":1,"seq":9,"ms":-1571,"op":"terminal.end"}
+{"executionId":"ae3ac50c-3890-4d75-803d-f323b75065af","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":1,"seq":10,"ms":-1523,"op":"debug.start"}
+{"executionId":"ae3ac50c-3890-4d75-803d-f323b75065af","doc":1,"seq":11,"ms":4323,"op":"debug.end"}
