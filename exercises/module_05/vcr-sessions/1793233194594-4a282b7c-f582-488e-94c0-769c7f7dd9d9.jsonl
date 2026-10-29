@@ -123,3 +123,48 @@
 {"version":462,"changes":[{"offset":255,"length":0,"text":"<"}],"doc":1,"seq":122,"ms":162328,"op":"edit"}
 {"version":463,"changes":[{"offset":256,"length":0,"text":" "}],"doc":1,"seq":123,"ms":162464,"op":"edit"}
 {"version":464,"changes":[{"offset":257,"length":0,"text":"\"\""}],"doc":1,"seq":124,"ms":162590,"op":"edit"}
+{"version":465,"changes":[{"offset":258,"length":0,"text":"q"}],"doc":1,"seq":125,"ms":163193,"op":"edit"}
+{"version":466,"changes":[{"offset":259,"length":0,"text":"u"}],"doc":1,"seq":126,"ms":163404,"op":"edit"}
+{"version":467,"changes":[{"offset":260,"length":0,"text":"o"}],"doc":1,"seq":127,"ms":163534,"op":"edit"}
+{"version":468,"changes":[{"offset":261,"length":0,"text":"t"}],"doc":1,"seq":128,"ms":163740,"op":"edit"}
+{"version":469,"changes":[{"offset":262,"length":0,"text":"i"}],"doc":1,"seq":129,"ms":163860,"op":"edit"}
+{"version":470,"changes":[{"offset":263,"length":0,"text":"o"}],"doc":1,"seq":130,"ms":164012,"op":"edit"}
+{"version":471,"changes":[{"offset":264,"length":0,"text":"e"}],"doc":1,"seq":131,"ms":164441,"op":"edit"}
+{"version":472,"changes":[{"offset":265,"length":0,"text":"n"}],"doc":1,"seq":132,"ms":164594,"op":"edit"}
+{"version":473,"changes":[{"offset":265,"length":1,"text":""}],"doc":1,"seq":133,"ms":164926,"op":"edit"}
+{"version":474,"changes":[{"offset":264,"length":1,"text":""}],"doc":1,"seq":134,"ms":165078,"op":"edit"}
+{"version":475,"changes":[{"offset":263,"length":1,"text":""}],"doc":1,"seq":135,"ms":165226,"op":"edit"}
+{"version":476,"changes":[{"offset":262,"length":1,"text":""}],"doc":1,"seq":136,"ms":165372,"op":"edit"}
+{"version":477,"changes":[{"offset":261,"length":1,"text":""}],"doc":1,"seq":137,"ms":165528,"op":"edit"}
+{"version":478,"changes":[{"offset":260,"length":1,"text":""}],"doc":1,"seq":138,"ms":165679,"op":"edit"}
+{"version":479,"changes":[{"offset":259,"length":1,"text":""}],"doc":1,"seq":139,"ms":165835,"op":"edit"}
+{"version":480,"changes":[{"offset":258,"length":1,"text":""}],"doc":1,"seq":140,"ms":166001,"op":"edit"}
+{"version":481,"changes":[{"offset":257,"length":2,"text":""}],"doc":1,"seq":141,"ms":166385,"op":"edit"}
+{"version":482,"changes":[{"offset":257,"length":0,"text":"q"}],"doc":1,"seq":142,"ms":167413,"op":"edit"}
+{"version":483,"changes":[{"offset":258,"length":0,"text":"u"}],"doc":1,"seq":143,"ms":167800,"op":"edit"}
+{"version":484,"changes":[{"offset":259,"length":0,"text":"o"}],"doc":1,"seq":144,"ms":168466,"op":"edit"}
+{"version":485,"changes":[{"offset":260,"length":0,"text":"t"}],"doc":1,"seq":145,"ms":168661,"op":"edit"}
+{"version":486,"changes":[{"offset":261,"length":0,"text":"i"}],"doc":1,"seq":146,"ms":168743,"op":"edit"}
+{"version":487,"changes":[{"offset":262,"length":0,"text":"e"}],"doc":1,"seq":147,"ms":168887,"op":"edit"}
+{"version":488,"changes":[{"offset":263,"length":0,"text":"n"}],"doc":1,"seq":148,"ms":169014,"op":"edit"}
+{"version":489,"changes":[{"offset":264,"length":0,"text":"t"}],"doc":1,"seq":149,"ms":169731,"op":"edit"}
+{"version":490,"changes":[{"offset":265,"length":0,"text":" "}],"doc":1,"seq":150,"ms":170369,"op":"edit"}
+{"version":491,"changes":[{"offset":266,"length":0,"text":"<"}],"doc":1,"seq":151,"ms":170595,"op":"edit"}
+{"version":492,"changes":[{"offset":267,"length":0,"text":"<"}],"doc":1,"seq":152,"ms":170756,"op":"edit"}
+{"version":493,"changes":[{"offset":268,"length":0,"text":" "}],"doc":1,"seq":153,"ms":170776,"op":"edit"}
+{"version":494,"changes":[{"offset":269,"length":0,"text":"\"\""}],"doc":1,"seq":154,"ms":173947,"op":"edit"}
+{"version":495,"changes":[{"offset":270,"length":0,"text":"\\"}],"doc":1,"seq":155,"ms":174623,"op":"edit"}
+{"version":496,"changes":[{"offset":271,"length":0,"text":"n"}],"doc":1,"seq":156,"ms":174980,"op":"edit"}
+{"version":497,"changes":[{"offset":273,"length":0,"text":";"}],"doc":1,"seq":157,"ms":176144,"op":"edit"}
+{"version":498,"changes":[{"offset":274,"length":0,"text":"\r\n    "}],"doc":1,"seq":158,"ms":176459,"op":"edit"}
+{"version":499,"changes":[{"offset":276,"length":4,"text":""}],"doc":1,"seq":159,"ms":178135,"op":"edit"}
+{"doc":1,"seq":160,"ms":178187,"op":"save"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/division.exe","confidence":2,"path":".","doc":2,"seq":161,"ms":193320,"op":"terminal.start"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"\u001b]633;C\u0007","doc":2,"seq":162,"ms":193376,"op":"terminal.output"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"Enter dividend: ","doc":2,"seq":163,"ms":193438,"op":"terminal.output"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"\u001b[8;17H2\u001b[8;18H","doc":2,"seq":164,"ms":195812,"op":"terminal.output"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"\u001b[8;18H2\u001b[8;19H","doc":2,"seq":165,"ms":196024,"op":"terminal.output"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"\u001b[8;19H\r\nEnter divisor: ","doc":2,"seq":166,"ms":196491,"op":"terminal.output"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"\u001b[9;16H3\u001b[9;17H","doc":2,"seq":167,"ms":197282,"op":"terminal.output"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"\u001b[9;17H\r\n0\r\n\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":168,"ms":197611,"op":"terminal.output"}
+{"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/division.exe","confidence":2,"exitCode":0,"doc":2,"seq":169,"ms":197611,"op":"terminal.end"}
