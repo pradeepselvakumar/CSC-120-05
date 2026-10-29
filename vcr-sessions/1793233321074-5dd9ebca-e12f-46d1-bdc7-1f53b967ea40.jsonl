@@ -1,0 +1,13 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-10-29T00:22:01.074Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"7443f1ae-7a8d-4b84-992c-83dac5e638ca","sourceWindowId":"60fadd6d-9c2e-4483-a44d-c67b828b5f85","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"06c728aca608d4799e0b30445bae1df900264b26","seq":1,"ms":-15,"op":"source.context"}
+{"executionId":"c9c8a6d4-ff74-46ee-81da-a9aab3a3ee39","name":"Compile active C++23 file","type":"process","path":".","doc":1,"seq":2,"ms":-15,"op":"task.start"}
+{"executionId":"e24c8ef1-bc74-4d60-86a1-d0ccc64f240d","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_05\\division.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/division.exe -lstdc++exp ","confidence":0,"doc":1,"seq":3,"ms":26,"op":"terminal.start"}
+{"executionId":"c9c8a6d4-ff74-46ee-81da-a9aab3a3ee39","processId":42816,"doc":1,"seq":4,"ms":341,"op":"task.processStart"}
+{"executionId":"e24c8ef1-bc74-4d60-86a1-d0ccc64f240d","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","data":"\u001b[1t\u001b[6n\u001b[c\u001b[?1004h\u001b[?9001h\u001b[4;1H","doc":1,"seq":5,"ms":433,"op":"terminal.output"}
+{"source":"watcher","path":".vscode/build/division.exe","doc":2,"seq":6,"ms":1905,"op":"fs.create"}
+{"executionId":"e24c8ef1-bc74-4d60-86a1-d0ccc64f240d","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","data":"\u001b[?1004l\u001b[?9001l","doc":1,"seq":7,"ms":2030,"op":"terminal.output"}
+{"executionId":"c9c8a6d4-ff74-46ee-81da-a9aab3a3ee39","exitCode":0,"doc":1,"seq":8,"ms":2282,"op":"task.processEnd"}
+{"executionId":"c9c8a6d4-ff74-46ee-81da-a9aab3a3ee39","doc":1,"seq":9,"ms":2286,"op":"task.end"}
+{"executionId":"e24c8ef1-bc74-4d60-86a1-d0ccc64f240d","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","commandLine":" *  Executing task: C:\\msys64\\ucrt64\\bin\\g++.EXE -std=c++23 -g C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05\\exercises\\module_05\\division.cpp -o C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/division.exe -lstdc++exp ","confidence":0,"exitCode":0,"doc":1,"seq":10,"ms":2289,"op":"terminal.end"}
+{"executionId":"5dcfa759-96f0-4c42-a360-a67862d83e64","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":1,"seq":11,"ms":2332,"op":"debug.start"}
+{"executionId":"5dcfa759-96f0-4c42-a360-a67862d83e64","doc":1,"seq":12,"ms":11799,"op":"debug.end"}

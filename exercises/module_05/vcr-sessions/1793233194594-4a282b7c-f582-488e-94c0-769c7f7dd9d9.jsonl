@@ -88,3 +88,38 @@
 {"version":428,"changes":[{"offset":332,"length":0,"text":"e"}],"doc":1,"seq":87,"ms":99568,"op":"edit"}
 {"version":429,"changes":[{"offset":333,"length":0,"text":"n"}],"doc":1,"seq":88,"ms":99691,"op":"edit"}
 {"version":430,"changes":[{"offset":334,"length":0,"text":"t"}],"doc":1,"seq":89,"ms":99904,"op":"edit"}
+{"version":431,"changes":[{"offset":396,"length":0,"text":" "}],"doc":1,"seq":90,"ms":111521,"op":"edit"}
+{"version":432,"changes":[{"offset":397,"length":0,"text":"<"}],"doc":1,"seq":91,"ms":111900,"op":"edit"}
+{"version":433,"changes":[{"offset":398,"length":0,"text":"<"}],"doc":1,"seq":92,"ms":112064,"op":"edit"}
+{"version":434,"changes":[{"offset":399,"length":0,"text":" "}],"doc":1,"seq":93,"ms":112141,"op":"edit"}
+{"version":435,"changes":[{"offset":400,"length":0,"text":"\"\""}],"doc":1,"seq":94,"ms":112718,"op":"edit"}
+{"version":436,"changes":[{"offset":401,"length":0,"text":"\\"}],"doc":1,"seq":95,"ms":113017,"op":"edit"}
+{"version":437,"changes":[{"offset":402,"length":0,"text":"n"}],"doc":1,"seq":96,"ms":113327,"op":"edit"}
+{"version":438,"changes":[{"offset":444,"length":0,"text":"\r\n    "}],"doc":1,"seq":97,"ms":115104,"op":"edit"}
+{"version":439,"changes":[{"offset":450,"length":0,"text":"\r\n    "},{"offset":446,"length":4,"text":""}],"doc":1,"seq":98,"ms":115638,"op":"edit"}
+{"version":440,"changes":[{"offset":452,"length":0,"text":"c"}],"doc":1,"seq":99,"ms":116150,"op":"edit"}
+{"version":441,"changes":[{"offset":453,"length":0,"text":"o"}],"doc":1,"seq":100,"ms":116327,"op":"edit"}
+{"version":442,"changes":[{"offset":454,"length":0,"text":"u"}],"doc":1,"seq":101,"ms":116377,"op":"edit"}
+{"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main() {\r\n    int divisor, dividend;\r\n\r\n    cout << \"Enter dividend: \";\r\n    cin >> dividend;\r\n\r\n    cout << \"Enter divisor: \";\r\n    cin >> dividend;\r\n\r\n    int quotient = dividend / divisor;\r\n    while (quotient > 0) {\r\n        cout << dividend << \"/\" << divisor << \" = \" << quotient << \" \";\r\n        cout << \"Remainder: \" << dividend % divisor << \"\\n\";\r\n\r\n        dividend = quotient;\r\n    }\r\n\r\n    cout\r\n}","version":443,"snapshot":true,"doc":1,"seq":102,"ms":116509,"op":"edit"}
+{"version":444,"changes":[{"offset":456,"length":0,"text":" "}],"doc":1,"seq":103,"ms":116553,"op":"edit"}
+{"version":445,"changes":[{"offset":457,"length":0,"text":"<"}],"doc":1,"seq":104,"ms":116790,"op":"edit"}
+{"version":446,"changes":[{"offset":458,"length":0,"text":"<"}],"doc":1,"seq":105,"ms":116910,"op":"edit"}
+{"version":447,"changes":[{"offset":459,"length":0,"text":" "}],"doc":1,"seq":106,"ms":117004,"op":"edit"}
+{"version":448,"changes":[{"offset":460,"length":0,"text":"e"}],"doc":1,"seq":107,"ms":117690,"op":"edit"}
+{"version":449,"changes":[{"offset":461,"length":0,"text":"n"}],"doc":1,"seq":108,"ms":117754,"op":"edit"}
+{"version":450,"changes":[{"offset":462,"length":0,"text":"d"}],"doc":1,"seq":109,"ms":117934,"op":"edit"}
+{"version":451,"changes":[{"offset":463,"length":0,"text":"l"}],"doc":1,"seq":110,"ms":118083,"op":"edit"}
+{"version":452,"changes":[{"offset":464,"length":0,"text":";"}],"doc":1,"seq":111,"ms":118356,"op":"edit"}
+{"version":453,"changes":[{"offset":268,"length":0,"text":"\r\n   "},{"offset":57,"length":1,"text":"\r\n"}],"doc":1,"seq":112,"ms":119448,"op":"edit"}
+{"version":454,"changes":[{"offset":474,"length":0,"text":"\r\n"}],"doc":1,"seq":113,"ms":119450,"op":"edit"}
+{"doc":1,"seq":114,"ms":119464,"op":"save"}
+{"version":455,"changes":[{"offset":243,"length":0,"text":"\r\n    "}],"doc":1,"seq":115,"ms":160797,"op":"edit"}
+{"version":456,"changes":[{"offset":249,"length":0,"text":"c"}],"doc":1,"seq":116,"ms":161425,"op":"edit"}
+{"version":457,"changes":[{"offset":250,"length":0,"text":"o"}],"doc":1,"seq":117,"ms":161660,"op":"edit"}
+{"version":458,"changes":[{"offset":251,"length":0,"text":"u"}],"doc":1,"seq":118,"ms":161732,"op":"edit"}
+{"version":459,"changes":[{"offset":252,"length":0,"text":"t"}],"doc":1,"seq":119,"ms":161854,"op":"edit"}
+{"version":460,"changes":[{"offset":253,"length":0,"text":" "}],"doc":1,"seq":120,"ms":161927,"op":"edit"}
+{"version":461,"changes":[{"offset":254,"length":0,"text":"<"}],"doc":1,"seq":121,"ms":162188,"op":"edit"}
+{"version":462,"changes":[{"offset":255,"length":0,"text":"<"}],"doc":1,"seq":122,"ms":162328,"op":"edit"}
+{"version":463,"changes":[{"offset":256,"length":0,"text":" "}],"doc":1,"seq":123,"ms":162464,"op":"edit"}
+{"version":464,"changes":[{"offset":257,"length":0,"text":"\"\""}],"doc":1,"seq":124,"ms":162590,"op":"edit"}
