@@ -23,3 +23,4 @@
 {"executionId":"a5450157-05b3-42a8-bd58-40c6769f3502","terminalId":"614c534d-4e05-4e7a-ab13-9afa99b65718","commandLine":" *  ","confidence":0,"exitCode":0,"doc":1,"seq":22,"ms":66806,"op":"terminal.end"}
 {"executionId":"b6eb8308-024e-4f62-b4e9-86d82b6bfae5","name":"Run active C++23 file","type":"cppdbg","noDebug":true,"doc":1,"seq":23,"ms":66812,"op":"debug.start"}
 {"executionId":"b6eb8308-024e-4f62-b4e9-86d82b6bfae5","doc":1,"seq":24,"ms":71171,"op":"debug.end"}
+{"seq":25,"ms":2145286,"op":"end"}

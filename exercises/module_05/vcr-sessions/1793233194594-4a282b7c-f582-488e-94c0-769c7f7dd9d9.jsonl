@@ -168,3 +168,4 @@
 {"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"\u001b[9;16H3\u001b[9;17H","doc":2,"seq":167,"ms":197282,"op":"terminal.output"}
 {"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","data":"\u001b[9;17H\r\n0\r\n\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":168,"ms":197611,"op":"terminal.output"}
 {"executionId":"9cac887d-5c47-4000-9dea-791f69b6f4e9","terminalId":"cd46a1f1-aa10-4a30-baaa-c5215935cf14","commandLine":"C:\\Users\\deepsprof\\courses\\26FA-CSC-120-05/.vscode/build/division.exe","confidence":2,"exitCode":0,"doc":2,"seq":169,"ms":197611,"op":"terminal.end"}
+{"seq":170,"ms":2271745,"op":"end"}
