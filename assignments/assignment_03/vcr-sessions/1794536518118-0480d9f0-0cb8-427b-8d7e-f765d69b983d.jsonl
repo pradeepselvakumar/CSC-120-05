@@ -88,3 +88,6 @@
 {"version":84,"changes":[{"offset":57,"length":1,"text":"\r\n"}],"doc":2,"seq":87,"ms":34571,"op":"edit"}
 {"version":85,"changes":[{"offset":93,"length":0,"text":"\r\n"}],"doc":2,"seq":88,"ms":34573,"op":"edit"}
 {"doc":2,"seq":89,"ms":34580,"op":"save"}
+{"executionId":"eb472890-d6f0-4547-b601-91a60af85ccc","terminalId":"d3309069-4fad-46d4-86f4-0ca9ac5bd2fa","commandLine":"git remote -v","confidence":2,"doc":1,"seq":90,"ms":61189,"op":"terminal.start"}
+{"executionId":"eb472890-d6f0-4547-b601-91a60af85ccc","terminalId":"d3309069-4fad-46d4-86f4-0ca9ac5bd2fa","data":"\u001b]633;C\u0007origin\thttps://github.com/pradeepselvakumar/26FA-CSC-120-05.git (fetch)\r\norigin\thttps://github.com/pradeepselvakumar/26FA-CSC-120-05.git (push)\r\nupstream\thttps://github.com/profpradeep/26FA-CSC-120-05.git (fetch)\r\nupstream\thttps://github.com/profpradeep/26FA-CSC-120-05.git (push)\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":1,"seq":91,"ms":61264,"op":"terminal.output"}
+{"executionId":"eb472890-d6f0-4547-b601-91a60af85ccc","terminalId":"d3309069-4fad-46d4-86f4-0ca9ac5bd2fa","commandLine":"git remote -v","confidence":2,"exitCode":0,"doc":1,"seq":92,"ms":61265,"op":"terminal.end"}
