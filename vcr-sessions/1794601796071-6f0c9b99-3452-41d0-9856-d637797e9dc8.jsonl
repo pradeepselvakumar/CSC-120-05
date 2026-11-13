@@ -1,0 +1,3 @@
+{"version":1,"vcrVersion":"0.0.9","courseId":"26FA-CSC-120-05","folder":".","startedAt":"2026-11-13T20:29:56.072Z","attemptId":"a15913fb-59b8-4e2a-842b-cef4f2f92f8e","segmentId":"8ed56022-1b45-48f3-af21-4f642475530b","sourceWindowId":"893ba492-bd15-4349-988d-6a19377a0e0c","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"c1698c805a8f394c704c8a75b832e475f5b4e476","seq":1,"ms":-18,"op":"source.context"}
+{"source":"watcher","path":".vscode/build/converter.exe","doc":1,"seq":2,"ms":-18,"op":"fs.create"}
