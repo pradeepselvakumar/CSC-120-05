@@ -167,3 +167,4 @@
 {"executionId":"eac30d62-6244-48b3-bcfc-423e5f047531","terminalId":"6898ceca-9813-4c7f-99c3-86fcf5af1886","commandLine":"cd ..","confidence":2,"doc":2,"seq":166,"ms":226091,"op":"terminal.start"}
 {"executionId":"eac30d62-6244-48b3-bcfc-423e5f047531","terminalId":"6898ceca-9813-4c7f-99c3-86fcf5af1886","data":"\u001b]633;C\u0007","doc":2,"seq":167,"ms":226092,"op":"terminal.output"}
 {"executionId":"eac30d62-6244-48b3-bcfc-423e5f047531","terminalId":"6898ceca-9813-4c7f-99c3-86fcf5af1886","commandLine":"cd ..","confidence":2,"exitCode":0,"doc":2,"seq":168,"ms":226092,"op":"terminal.end"}
+{"seq":169,"ms":570252,"op":"end"}
