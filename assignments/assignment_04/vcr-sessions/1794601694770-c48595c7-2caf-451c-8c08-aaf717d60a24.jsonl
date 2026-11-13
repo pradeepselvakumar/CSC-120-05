@@ -1,0 +1,4 @@
+{"version":1,"vcrVersion":"0.0.9","courseId":"26FA-CSC-120-05","folder":"assignments/assignment_04","startedAt":"2026-11-13T20:28:14.770Z","attemptId":"3a50b1ab-ffbc-4a92-ab2a-0488428d55a7","segmentId":"34c0d53b-113b-4fbd-9b15-111493e3d2d2","sourceWindowId":"893ba492-bd15-4349-988d-6a19377a0e0c","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"c1698c805a8f394c704c8a75b832e475f5b4e476","seq":1,"ms":-2665,"op":"source.context"}
+{"text":"#include <iostream>\r\n\r\nusing namespace std;\r\n\r\nint main()\r\n{\r\n    cout << \"Hello world!\";\r\n}\r\n","version":1,"path":"converter.cpp","snapshot":true,"doc":1,"seq":2,"ms":-2665,"op":"snap"}
+{"version":2,"changes":[{"offset":66,"length":23,"text":""}],"doc":1,"seq":3,"ms":57185,"op":"edit"}
