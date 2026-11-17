@@ -92,3 +92,8 @@
 {"executionId":"0d71120d-0d51-4c4d-8bf2-246e6b1eaab6","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","commandLine":"cls","confidence":2,"path":".","doc":2,"seq":91,"ms":57347,"op":"terminal.start"}
 {"executionId":"0d71120d-0d51-4c4d-8bf2-246e6b1eaab6","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","data":"\u001b]633;C\u0007\u001b[1;1H\u001b[H\u001b[2J\u001b[3J","doc":2,"seq":92,"ms":57397,"op":"terminal.output"}
 {"executionId":"0d71120d-0d51-4c4d-8bf2-246e6b1eaab6","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","commandLine":"cls","confidence":2,"exitCode":0,"doc":2,"seq":93,"ms":57398,"op":"terminal.end"}
+{"branch":"main","commit":"81ac0093b0e736183a87d5033ab080f76809668f","seq":94,"ms":153435,"op":"source.context"}
+{"executionId":"3191c38b-5727-4254-83b2-d4adc8efd62a","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","commandLine":"gh auth switch","confidence":2,"doc":2,"seq":95,"ms":153435,"op":"terminal.start"}
+{"executionId":"3191c38b-5727-4254-83b2-d4adc8efd62a","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","data":"\u001b]633;C\u0007","doc":2,"seq":96,"ms":153491,"op":"terminal.output"}
+{"executionId":"3191c38b-5727-4254-83b2-d4adc8efd62a","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","data":"\u001b[0;32m✓\u001b[0m Switched active account for github.com to \u001b[0;1;39mpradeepselvakumar\u001b[0m\r\n\u001b]0;C:\\Program Files\\PowerShell\\7\\pwsh.exe\u001b\\","doc":2,"seq":97,"ms":153558,"op":"terminal.output"}
+{"executionId":"3191c38b-5727-4254-83b2-d4adc8efd62a","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","commandLine":"gh auth switch","confidence":2,"exitCode":0,"doc":2,"seq":98,"ms":153559,"op":"terminal.end"}
