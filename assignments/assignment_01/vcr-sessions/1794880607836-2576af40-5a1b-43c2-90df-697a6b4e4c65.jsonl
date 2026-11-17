@@ -56,3 +56,39 @@
 {"version":54,"changes":[{"offset":57,"length":0,"text":" "}],"doc":1,"seq":55,"ms":13908,"op":"edit"}
 {"version":55,"changes":[{"offset":58,"length":0,"text":"{}"}],"doc":1,"seq":56,"ms":14644,"op":"edit"}
 {"version":56,"changes":[{"offset":59,"length":0,"text":"\r\n    \r\n"}],"doc":1,"seq":57,"ms":14940,"op":"edit"}
+{"version":57,"changes":[{"offset":65,"length":0,"text":"c"}],"doc":1,"seq":58,"ms":15799,"op":"edit"}
+{"version":58,"changes":[{"offset":66,"length":0,"text":"o"}],"doc":1,"seq":59,"ms":15864,"op":"edit"}
+{"version":59,"changes":[{"offset":67,"length":0,"text":"u"}],"doc":1,"seq":60,"ms":15931,"op":"edit"}
+{"version":60,"changes":[{"offset":68,"length":0,"text":"t"}],"doc":1,"seq":61,"ms":16046,"op":"edit"}
+{"version":61,"changes":[{"offset":69,"length":0,"text":" "}],"doc":1,"seq":62,"ms":16112,"op":"edit"}
+{"version":62,"changes":[{"offset":70,"length":0,"text":"<"}],"doc":1,"seq":63,"ms":16301,"op":"edit"}
+{"version":63,"changes":[{"offset":71,"length":0,"text":"<"}],"doc":1,"seq":64,"ms":16444,"op":"edit"}
+{"version":64,"changes":[{"offset":72,"length":0,"text":" "}],"doc":1,"seq":65,"ms":16620,"op":"edit"}
+{"version":65,"changes":[{"offset":73,"length":0,"text":"\"\""}],"doc":1,"seq":66,"ms":16738,"op":"edit"}
+{"version":66,"changes":[{"offset":74,"length":0,"text":"H"}],"doc":1,"seq":67,"ms":17056,"op":"edit"}
+{"version":67,"changes":[{"offset":75,"length":0,"text":"e"}],"doc":1,"seq":68,"ms":17194,"op":"edit"}
+{"version":68,"changes":[{"offset":76,"length":0,"text":"l"}],"doc":1,"seq":69,"ms":17307,"op":"edit"}
+{"version":69,"changes":[{"offset":77,"length":0,"text":"l"}],"doc":1,"seq":70,"ms":17454,"op":"edit"}
+{"version":70,"changes":[{"offset":78,"length":0,"text":"o"}],"doc":1,"seq":71,"ms":17642,"op":"edit"}
+{"version":71,"changes":[{"offset":79,"length":0,"text":" "}],"doc":1,"seq":72,"ms":17792,"op":"edit"}
+{"version":72,"changes":[{"offset":80,"length":0,"text":"w"}],"doc":1,"seq":73,"ms":18365,"op":"edit"}
+{"version":73,"changes":[{"offset":81,"length":0,"text":"o"}],"doc":1,"seq":74,"ms":18533,"op":"edit"}
+{"version":74,"changes":[{"offset":82,"length":0,"text":"r"}],"doc":1,"seq":75,"ms":18594,"op":"edit"}
+{"version":75,"changes":[{"offset":83,"length":0,"text":"l"}],"doc":1,"seq":76,"ms":19033,"op":"edit"}
+{"version":76,"changes":[{"offset":84,"length":0,"text":"d"}],"doc":1,"seq":77,"ms":19115,"op":"edit"}
+{"version":77,"changes":[{"offset":85,"length":0,"text":"!"}],"doc":1,"seq":78,"ms":19647,"op":"edit"}
+{"version":78,"changes":[{"offset":87,"length":0,"text":" "}],"doc":1,"seq":79,"ms":21526,"op":"edit"}
+{"version":79,"changes":[{"offset":88,"length":0,"text":"<"}],"doc":1,"seq":80,"ms":21700,"op":"edit"}
+{"version":80,"changes":[{"offset":89,"length":0,"text":"<"}],"doc":1,"seq":81,"ms":21846,"op":"edit"}
+{"version":81,"changes":[{"offset":90,"length":0,"text":" "}],"doc":1,"seq":82,"ms":21903,"op":"edit"}
+{"version":82,"changes":[{"offset":91,"length":0,"text":"e"}],"doc":1,"seq":83,"ms":22227,"op":"edit"}
+{"version":83,"changes":[{"offset":92,"length":0,"text":"n"}],"doc":1,"seq":84,"ms":22340,"op":"edit"}
+{"version":84,"changes":[{"offset":93,"length":0,"text":"d"}],"doc":1,"seq":85,"ms":22431,"op":"edit"}
+{"version":85,"changes":[{"offset":94,"length":0,"text":"l"}],"doc":1,"seq":86,"ms":22901,"op":"edit"}
+{"version":86,"changes":[{"offset":95,"length":0,"text":";"}],"doc":1,"seq":87,"ms":23143,"op":"edit"}
+{"version":87,"changes":[{"offset":99,"length":0,"text":"\r\n"}],"doc":1,"seq":88,"ms":24642,"op":"edit"}
+{"version":88,"changes":[{"offset":57,"length":1,"text":"\r\n"}],"doc":1,"seq":89,"ms":25703,"op":"edit"}
+{"doc":1,"seq":90,"ms":25716,"op":"save"}
+{"executionId":"0d71120d-0d51-4c4d-8bf2-246e6b1eaab6","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","commandLine":"cls","confidence":2,"path":".","doc":2,"seq":91,"ms":57347,"op":"terminal.start"}
+{"executionId":"0d71120d-0d51-4c4d-8bf2-246e6b1eaab6","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","data":"\u001b]633;C\u0007\u001b[1;1H\u001b[H\u001b[2J\u001b[3J","doc":2,"seq":92,"ms":57397,"op":"terminal.output"}
+{"executionId":"0d71120d-0d51-4c4d-8bf2-246e6b1eaab6","terminalId":"6df8f880-752a-4121-b8fe-9b83adb2af13","commandLine":"cls","confidence":2,"exitCode":0,"doc":2,"seq":93,"ms":57398,"op":"terminal.end"}
