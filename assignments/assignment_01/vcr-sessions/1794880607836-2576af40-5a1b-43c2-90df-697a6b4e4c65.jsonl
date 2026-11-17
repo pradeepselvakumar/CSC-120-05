@@ -1,0 +1,58 @@
+{"version":1,"vcrVersion":"0.0.9","courseId":"26FA-CSC-120-05","folder":"assignments/assignment_01","startedAt":"2026-11-17T01:56:47.837Z","attemptId":"2b3358f0-999c-48d8-9907-1181e2cf4d03","segmentId":"5eb271ef-4a65-4c09-b602-bcec57ce2973","sourceWindowId":"7a399b47-ca51-4d4c-878b-0361017ef3f7","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"672d9441eb2e6ef7424707edff5253b4149eecb1","seq":1,"ms":-54,"op":"source.context"}
+{"text":"","version":1,"path":"bill.cpp","snapshot":true,"doc":1,"seq":2,"ms":-54,"op":"snap"}
+{"version":2,"changes":[{"offset":0,"length":0,"text":"#"}],"doc":1,"seq":3,"ms":755,"op":"edit"}
+{"version":3,"changes":[{"offset":1,"length":0,"text":"i"}],"doc":1,"seq":4,"ms":1038,"op":"edit"}
+{"version":4,"changes":[{"offset":2,"length":0,"text":"n"}],"doc":1,"seq":5,"ms":1172,"op":"edit"}
+{"version":5,"changes":[{"offset":3,"length":0,"text":"c"}],"doc":1,"seq":6,"ms":1273,"op":"edit"}
+{"version":6,"changes":[{"offset":4,"length":0,"text":"l"}],"doc":1,"seq":7,"ms":1433,"op":"edit"}
+{"version":7,"changes":[{"offset":5,"length":0,"text":"u"}],"doc":1,"seq":8,"ms":1492,"op":"edit"}
+{"version":8,"changes":[{"offset":6,"length":0,"text":"d"}],"doc":1,"seq":9,"ms":1552,"op":"edit"}
+{"version":9,"changes":[{"offset":7,"length":0,"text":"e"}],"doc":1,"seq":10,"ms":1749,"op":"edit"}
+{"version":10,"changes":[{"offset":8,"length":0,"text":" "}],"doc":1,"seq":11,"ms":1811,"op":"edit"}
+{"version":11,"changes":[{"offset":9,"length":0,"text":"<"}],"doc":1,"seq":12,"ms":2057,"op":"edit"}
+{"version":12,"changes":[{"offset":10,"length":0,"text":"i"}],"doc":1,"seq":13,"ms":2332,"op":"edit"}
+{"version":13,"changes":[{"offset":11,"length":0,"text":"o"}],"doc":1,"seq":14,"ms":2493,"op":"edit"}
+{"version":14,"changes":[{"offset":12,"length":0,"text":"s"}],"doc":1,"seq":15,"ms":2677,"op":"edit"}
+{"version":15,"changes":[{"offset":13,"length":0,"text":"t"}],"doc":1,"seq":16,"ms":2825,"op":"edit"}
+{"version":16,"changes":[{"offset":14,"length":0,"text":"r"}],"doc":1,"seq":17,"ms":3151,"op":"edit"}
+{"version":17,"changes":[{"offset":15,"length":0,"text":"e"}],"doc":1,"seq":18,"ms":3157,"op":"edit"}
+{"version":18,"changes":[{"offset":16,"length":0,"text":"a"}],"doc":1,"seq":19,"ms":3355,"op":"edit"}
+{"version":19,"changes":[{"offset":17,"length":0,"text":"m"}],"doc":1,"seq":20,"ms":3514,"op":"edit"}
+{"version":20,"changes":[{"offset":18,"length":0,"text":">"}],"doc":1,"seq":21,"ms":3827,"op":"edit"}
+{"version":21,"changes":[{"offset":19,"length":0,"text":"\r\n"}],"doc":1,"seq":22,"ms":4313,"op":"edit"}
+{"version":22,"changes":[{"offset":21,"length":0,"text":"\r\n"}],"doc":1,"seq":23,"ms":4455,"op":"edit"}
+{"version":23,"changes":[{"offset":23,"length":0,"text":"u"}],"doc":1,"seq":24,"ms":5562,"op":"edit"}
+{"version":24,"changes":[{"offset":24,"length":0,"text":"s"}],"doc":1,"seq":25,"ms":5686,"op":"edit"}
+{"version":25,"changes":[{"offset":25,"length":0,"text":"i"}],"doc":1,"seq":26,"ms":5834,"op":"edit"}
+{"version":26,"changes":[{"offset":26,"length":0,"text":"n"}],"doc":1,"seq":27,"ms":5898,"op":"edit"}
+{"version":27,"changes":[{"offset":27,"length":0,"text":"g"}],"doc":1,"seq":28,"ms":5971,"op":"edit"}
+{"version":28,"changes":[{"offset":28,"length":0,"text":" "}],"doc":1,"seq":29,"ms":6027,"op":"edit"}
+{"version":29,"changes":[{"offset":29,"length":0,"text":"n"}],"doc":1,"seq":30,"ms":6171,"op":"edit"}
+{"version":30,"changes":[{"offset":30,"length":0,"text":"a"}],"doc":1,"seq":31,"ms":6253,"op":"edit"}
+{"version":31,"changes":[{"offset":31,"length":0,"text":"m"}],"doc":1,"seq":32,"ms":6343,"op":"edit"}
+{"version":32,"changes":[{"offset":32,"length":0,"text":"e"}],"doc":1,"seq":33,"ms":6591,"op":"edit"}
+{"version":33,"changes":[{"offset":33,"length":0,"text":"s"}],"doc":1,"seq":34,"ms":6912,"op":"edit"}
+{"version":34,"changes":[{"offset":34,"length":0,"text":"p"}],"doc":1,"seq":35,"ms":7019,"op":"edit"}
+{"version":35,"changes":[{"offset":35,"length":0,"text":"a"}],"doc":1,"seq":36,"ms":7127,"op":"edit"}
+{"version":36,"changes":[{"offset":36,"length":0,"text":"c"}],"doc":1,"seq":37,"ms":7343,"op":"edit"}
+{"version":37,"changes":[{"offset":37,"length":0,"text":"e"}],"doc":1,"seq":38,"ms":7551,"op":"edit"}
+{"version":38,"changes":[{"offset":38,"length":0,"text":" "}],"doc":1,"seq":39,"ms":7667,"op":"edit"}
+{"version":39,"changes":[{"offset":39,"length":0,"text":"s"}],"doc":1,"seq":40,"ms":8506,"op":"edit"}
+{"version":40,"changes":[{"offset":40,"length":0,"text":"t"}],"doc":1,"seq":41,"ms":8659,"op":"edit"}
+{"version":41,"changes":[{"offset":41,"length":0,"text":"d"}],"doc":1,"seq":42,"ms":8882,"op":"edit"}
+{"version":42,"changes":[{"offset":42,"length":0,"text":";"}],"doc":1,"seq":43,"ms":9046,"op":"edit"}
+{"version":43,"changes":[{"offset":43,"length":0,"text":"\r\n"}],"doc":1,"seq":44,"ms":9322,"op":"edit"}
+{"version":44,"changes":[{"offset":45,"length":0,"text":"\r\n"}],"doc":1,"seq":45,"ms":9534,"op":"edit"}
+{"version":45,"changes":[{"offset":47,"length":0,"text":"i"}],"doc":1,"seq":46,"ms":11775,"op":"edit"}
+{"version":46,"changes":[{"offset":48,"length":0,"text":"n"}],"doc":1,"seq":47,"ms":11819,"op":"edit"}
+{"version":47,"changes":[{"offset":49,"length":0,"text":"t"}],"doc":1,"seq":48,"ms":12122,"op":"edit"}
+{"version":48,"changes":[{"offset":50,"length":0,"text":" "}],"doc":1,"seq":49,"ms":12308,"op":"edit"}
+{"version":49,"changes":[{"offset":51,"length":0,"text":"m"}],"doc":1,"seq":50,"ms":12538,"op":"edit"}
+{"version":50,"changes":[{"offset":52,"length":0,"text":"a"}],"doc":1,"seq":51,"ms":12582,"op":"edit"}
+{"version":51,"changes":[{"offset":53,"length":0,"text":"i"}],"doc":1,"seq":52,"ms":12768,"op":"edit"}
+{"version":52,"changes":[{"offset":54,"length":0,"text":"n"}],"doc":1,"seq":53,"ms":12822,"op":"edit"}
+{"version":53,"changes":[{"offset":55,"length":0,"text":"()"}],"doc":1,"seq":54,"ms":13135,"op":"edit"}
+{"version":54,"changes":[{"offset":57,"length":0,"text":" "}],"doc":1,"seq":55,"ms":13908,"op":"edit"}
+{"version":55,"changes":[{"offset":58,"length":0,"text":"{}"}],"doc":1,"seq":56,"ms":14644,"op":"edit"}
+{"version":56,"changes":[{"offset":59,"length":0,"text":"\r\n    \r\n"}],"doc":1,"seq":57,"ms":14940,"op":"edit"}

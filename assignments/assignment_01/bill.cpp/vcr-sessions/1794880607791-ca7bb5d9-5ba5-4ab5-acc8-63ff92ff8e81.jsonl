@@ -1,0 +1,4 @@
+{"version":1,"vcrVersion":"0.0.9","courseId":"26FA-CSC-120-05","folder":"assignments/assignment_01/bill.cpp","startedAt":"2026-11-17T01:56:47.791Z","attemptId":"ac30a9e6-840b-47a8-835c-32464dab18b2","segmentId":"4baefda1-d8d9-4f24-8613-7dbdabce36b7","sourceWindowId":"7a399b47-ca51-4d4c-878b-0361017ef3f7","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"672d9441eb2e6ef7424707edff5253b4149eecb1","seq":1,"ms":-54,"op":"source.context"}
+{"source":"workspace","path":".","doc":1,"seq":2,"ms":-54,"op":"fs.create"}
+{"source":"watcher","doc":1,"seq":3,"ms":55,"op":"fs.create"}
